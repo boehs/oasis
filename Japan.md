@@ -1,0 +1,1 @@
+⚠️ **This page is about Japan 🇯🇵, click [[日本|here]] for the language**

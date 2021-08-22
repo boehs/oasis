@@ -1,0 +1,7 @@
+{
+  "useFrontmatterHighlight": true,
+  "usePathHighlight": false,
+  "frontmatterAttribute": "visibility",
+  "valueToHighlight": "public",
+  "pathToHighlight": ""
+}
