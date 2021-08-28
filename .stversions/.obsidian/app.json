@@ -21,6 +21,5 @@
   ],
   "spellcheck": true,
   "promptDelete": false,
-  "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "Assets"
+  "alwaysUpdateLinks": true
 }

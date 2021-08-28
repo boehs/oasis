@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "c0259719481a5812",
+    "type": "split",
+    "children": [
+      {
+        "id": "42b660243ec863ad",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fca290d191eafe63",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2b9b90c9bcd1115",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6986c04c51149436",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "430dfd400b795504",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e799414592c5af1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "4abf4222aa71cb78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f1fbbfa829ef786",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "42b660243ec863ad",
+  "lastOpenFiles": [
+    "Proficiency.md",
+    "As Fast As Possible.md",
+    "Why.md",
+    "SyncThing.md",
+    "RV life.md",
+    "No Reviews.md",
+    "Obsidian Publish.md",
+    "Untitled.md",
+    "Why?.md",
+    "For Me, Not You.md"
+  ]
+}

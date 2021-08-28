@@ -11,7 +11,7 @@ Setup was difficult (I had to manually enter a 30 or something char long pairing
 
 Once I had my devices paired, I added my vault folder to SyncThing and checked the device(es) I wanted to sync with. I was relieved to discover I simply needed to consent on the other device and file syncing began perfectly (after the code bit I was scared)
 
-When I say perfectly I almost mean perfectly (that's a compliment!). I configured SyncThing to "watch" the folder for changes, and it perfectly and instantly picked up on every change and synced it every time. The only annoyance I had was how it handled an error syncing a file. I made a markdown file with a `?` mark in its name, and was informed of a syncing error and directed to the console to "look for clues". To SyncThing's credit, no tracebacks or anything, just a clean log entry informing me windows does not support question marks in file names: but I would have much rathered that information be presented in app
+When I say perfectly I almost mean perfectly (that's a compliment!). I configured SyncThing to "watch" the folder for changes, and it perfectly and instantly picked up on every change and synced it every time. The only annoyance I had was how it handled an error syncing a file. I made a markdown file with a `?` mark, and was informed of a syncing error and directed to the console to "look for clues". To SyncThing's credit, no tracebacks or anything, just a clean log entry informing me windows does not support question marks in file names: but I would have much rathered that information be presented in app
 
 ## Syncing music
 
@@ -29,7 +29,7 @@ Cool!
 
 ## Ebooks
 
-I was able to make a small script with the guidance of [NiLuJe](https://www.mobileread.com/forums/member.php?u=69624) [on a post I found](https://www.mobileread.com/forums/showthread.php?t=330426) to sync my E-reader and phone after side loading [[KoReader]] onto my [[Kobo]]. Currently the script is blocking so I run it only when I want to update the device (a good practice anyway, wifi is a big battery hog!)
+I was able to make a small script with the guidance of [NiLuJe](https://www.mobileread.com/forums/member.php?u=69624) [on a post I found](https://www.mobileread.com/forums/showthread.php?t=330426) to sync my E-reader and phone after side loading [[KoReader]] onto my [[Kobo]]. Currently the script is blocking so I run it when I want to update the device - but hopefully one day I find the time to turn it into a plugin.
 
 ## A scare
 
