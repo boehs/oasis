@@ -7,23 +7,26 @@
         "id": "42b660243ec863ad",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "The .tech trap.md",
+            "mode": "preview"
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "fca290d191eafe63",
+    "id": "3b86f9ea318e70e1",
     "type": "split",
     "children": [
       {
-        "id": "c2b9b90c9bcd1115",
+        "id": "5a3dc3f06a8e11c4",
         "type": "tabs",
         "children": [
           {
-            "id": "6986c04c51149436",
+            "id": "11999ab111dfdbed",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,7 +34,7 @@
             }
           },
           {
-            "id": "430dfd400b795504",
+            "id": "5832f7f992b8bfb7",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -52,19 +55,20 @@
     "width": 300
   },
   "right": {
-    "id": "e799414592c5af1e",
+    "id": "ccaf7484b6f8a58d",
     "type": "split",
     "children": [
       {
-        "id": "4abf4222aa71cb78",
+        "id": "21764fff865661c1",
         "type": "tabs",
         "children": [
           {
-            "id": "7f1fbbfa829ef786",
+            "id": "2815ad196c03bed4",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "The .tech trap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +88,15 @@
   },
   "active": "42b660243ec863ad",
   "lastOpenFiles": [
-    "Proficiency.md",
-    "As Fast As Possible.md",
-    "Why.md",
-    "SyncThing.md",
+    "The .tech trap.md",
     "RV life.md",
+    "Cute.md",
+    "As Fast As Possible.md",
+    "Home.md",
+    "Inclusive vs. Restrictive.md",
+    "near everything.md",
     "No Reviews.md",
-    "Obsidian Publish.md",
-    "Untitled.md",
-    "Why?.md",
-    "For Me, Not You.md"
+    "SyncThing.md",
+    "Untitled.md"
   ]
 }

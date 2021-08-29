@@ -1,0 +1,1 @@
+These are general notes about #do-good
