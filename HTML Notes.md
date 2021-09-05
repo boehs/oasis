@@ -23,3 +23,15 @@ Coordinates for absolute elements are always relative to the closest container t
 ```
 
 The `.absolute` div is laid out with the normal flow of the page, and we can manually move around our `.item-absolute` wherever we need to. This is great, because if we want to alter the normal flow of the container, say, for a mobile layout, any absolutely positioned elements will automatically move with it.
+
+# Design
+
+## Color
+
+### Defaults
+
+It's important to know that divisions often appear white because the default color of the body is also white even though obviously they're transparent because what happens if you line a div on top of another one.
+
+It's important to remember that they're transparent unless you specify the `background` property.
+
+This came up when I believe that `z-index` wasn't working properly and I assumed that the index didn't apply to background colors
