@@ -2,6 +2,32 @@ Today when talking on discord someone mentioned their approval for Khan Academy,
 
 I voiced my thoughts in a brief way in discord, and was quickly attacked by nearly everyone there. People seem to all love khan, holding it as the savior of education, and in some way's, it is. Khan was the first platform I could find to offer **easily** accessible k-12-beyond learning for anyone, for free. It provides a central place with "trusted" content, but ultimately khan academy solves no issues in our education system, while getting all the support of the internet.
 
+I write this "rant" to be the first person on the internet to say khan is not so great.
+
 ## A dictatorship
 
-There is no public information on khan academies power structure, aside from the fact that it has [executives](https://www.khanacademy.org/about/our-board). There is no way to vote in leaders, and no real way to hold them accountable. 
+There is no public information on khan academies power structure, aside from the fact that it has [executives](https://www.khanacademy.org/about/our-board). There is no way to vote in leaders, and no real way to hold them accountable other than abstaining from donation. This leads to near unlimited power. Sal has networth in the millions alone, and due to its dictatorship structure a hostile takeover to broadcast information on a "trusted" site like khan is possible - as we saw in freenode. This power structure ultimately leaves not only the [people](https://youtu.be/q8zKgd1r8uI?t=46) but the teachers powerless, leaving for issues like the [traditional school board](https://www.youtube.com/watch?v=mJBlgIA3K24).
+
+## Closed source
+
+I don't give a shit about the website source code, but the curriculum is closed source. This means if misinformation is spread on the site, we are unable to maintain a "correct" mirror. If the site goes down, so does the learning.
+
+What about 
+
+## Closed doors
+
+Finally, Khan contributors are always employees. This means we are relient on [bug reports](https://support.khanacademy.org/hc/en-us/articles/226373748-How-do-I-report-different-kinds-of-bugs-and-issues-#content) to fix issues, and who knows when or if it will be fixed. Additionally, raised issues are viewable only to khan staff removing even more accountability.
+
+Want to write more new content for khan for free because you love learning? Guess what, you can't without giving up your job for a paid position.
+
+## Uncited
+
+I struggled to find citations for anything asserted on their site. This is especially needed in the sciences and social studies, where misinformation is rampant.
+
+# We can do better
+
+I dream of a curriculum where we are free. Free to redistribute, free to modify. Where there is democratic government, so a hostile takeover is near impossible. Where changes are made in the open so that we hold those that make them more accountable. A curriculum with modern 
+
+---
+
+This post and all other material by me that is hosted on lemmy servers is UNLICENSED. Do as you wish.
