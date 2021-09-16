@@ -14,8 +14,3 @@ And then we passed
 
 I stare at your hair from the desk behind 
 Watching you laugh with gabe
-
----
-
-I made a friend
-What a wonderful stream of bytes they are
