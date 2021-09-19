@@ -20,10 +20,30 @@ Enjoy!
 
 ### ~~JavaScript~~ TypeScript
 
+#### Elm
+
 ### Python
 
 ### Rust
 
 ### ~~C~~ C++
+
+### Crystal
+
+### CSS/HTML
+
+### Haskell
+
+#### GO
+
+### Ruby
+
+### R
+
+### PHP
+
+### Perl
+
+
 
 ## My evaluation at the long walk's end
