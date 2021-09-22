@@ -20,3 +20,9 @@ Watching you laugh with gabe
 > “I may disagree with what you say, but I will defend to the death your right to say it.”
 
 - Voltaire
+
+---
+
+All my friends found their people
+And so I find myself
+Alone.
