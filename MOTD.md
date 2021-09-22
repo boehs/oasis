@@ -14,3 +14,9 @@ And then we passed
 
 I stare at your hair from the desk behind 
 Watching you laugh with gabe
+
+---
+
+> “I may disagree with what you say, but I will defend to the death your right to say it.”
+
+- Voltaire
