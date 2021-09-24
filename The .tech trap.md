@@ -2,6 +2,7 @@
 aliases:
 - GitHub Edu products are not free
 - Don't take free domains
+- The GitHub Education Pack is a trap
 ---
 
 So, your a student thinking about getting one of those sexy free domains from :
@@ -40,7 +41,7 @@ Now your paying 2x what you could have been
 
 ### Ditch the old one
 
-Or, you could ditch the old one, leaving metric tons of dead links in your wake. You know how deadlinks feel to stumble across, and you certainly don't want to give someone else that fait
+Or, you could ditch the old one, leaving metric tons of dead links in your wake. You know how deadlinks feel to stumble across, and you certainly don't want to give someone else that fate
 
 ## This was avoidable
 
