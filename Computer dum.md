@@ -1,0 +1,1 @@
+A computer is an abstraction so I don't need to deal with electronics
