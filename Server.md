@@ -12,7 +12,10 @@
 
 I already explained why I love syncthing, but one limitation is both devices must be online to sync, so this often happens:
 
-Having a server means the phone can sync to that server, and then when the computer goes online and the phone offline it is ready.
+![[Pasted image 20210925175359.png]]
+![[Pasted image 20210925175325.png]]
+
+Having a server means the phone can sync to that server, and then when the computer goes online and the phone offline the computer can still sync.
 
 ## For friends and me
 
