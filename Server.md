@@ -28,11 +28,11 @@ Ditching immature email with zero compromises
 * cool_dude420@gmail.com <- evan@boehs.io <- email@example.com
 ```
 
-Existing emails delivered to cool_dude420@gmail.com, but new contacts get my best face (evan@boehs.io). It fowards emails to cool_dude420@gmail.com without telling the sender, and vice versa
+Existing emails delivered to `cool_dude420@gmail.com`, but new contacts get my best face (`evan@boehs.io`). It forwards emails to `cool_dude420@gmail.com` without telling the sender, and vice versa
 
 ### Hosting stuff
 
-Host backends I write independent of my computer, so they are available when ever me or a friend needs them.
+Host backends I write independent of my computer, so they are available when ever me or a friend needs them. Nothing high traffic in this section, but involves some MySQL and such. Mostly node, some rust.
 
 ## For the world, me, and my friends
 
@@ -62,3 +62,11 @@ A wonderful replacement for Google photos, because it is no longer free
 ### Drive
 
 I want to host a small file server that allows me to have public, unlisted, and password protected areas. In most cases, Google drive is appropriate, but occasionally drive.boehs.io/coolfile.png would be nice, to make it clear that information is by *me*.
+
+### Website
+
+Serving static website that has my notes ([[Trinket]]).
+
+## Security
+
+Because I am hosting this shit from my own wifi, security is important. 
