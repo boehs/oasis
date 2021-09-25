@@ -1,1 +1,20 @@
-{"userAdmonitions":{},"syntaxHighlight":false,"copyButton":false,"version":"6.2.8","autoCollapse":false,"defaultCollapseType":"open","syncLinks":true,"enableMarkdownProcessor":false}
+{
+  "userAdmonitions": {
+    "Good": {
+      "type": "Good",
+      "color": "40, 138, 96",
+      "icon": {
+        "name": "check",
+        "type": "font-awesome"
+      },
+      "command": true
+    }
+  },
+  "syntaxHighlight": true,
+  "copyButton": false,
+  "version": "6.3.1",
+  "autoCollapse": false,
+  "defaultCollapseType": "open",
+  "syncLinks": true,
+  "enableMarkdownProcessor": false
+}

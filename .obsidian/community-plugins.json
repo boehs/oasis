@@ -1,4 +1,9 @@
 [
   "obsidian-highlightpublicnotes-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-dynamic-toc",
+  "obsidian-discordrpc",
+  "calendar",
+  "table-editor-obsidian",
+  "obsidian-admonition"
 ]
