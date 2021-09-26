@@ -7,15 +7,15 @@ One might be tempted to think at first glance that Trinket is another static sit
 
 On top of that, trinket is a special hybrid of amazing things we took from our favorite static site generators, like
 
-2. Incredibly preformant, safe, and multithreaded code written in Rust 🦀
+2. Incredibly preferment, safe, and multithreaded code written in Rust 🦀
 3. Modern features to accommodate new way's of thinking, like digital gardens
-4. First class terminal support
+4. First class terminal 👩‍💻 support
 
-But what makes trinket *special* are it's trinkets, charms, toys, worrinklers and shamens
+But what makes trinket *special* are it's trinkets, charms, toys, wrinklers and shamans
 
 # The content ecosystem
 
-TD;LR: Trinket makes it easy to get content from many abstract sources like Instagram, Twitter, local files, ect than turn them into a standardized layout ready to be like a conventional blog feed.
+TD;LR: Trinket makes it easy to get content from any source - like Instagram, local files, and Twitter, than turn that content into a HTML layout ready to be viewed like a conventional blog.
 
 ## Trinkets
 
@@ -35,15 +35,15 @@ If only one feature defines trinket, it's got to be our trinkets. Unlike convent
 
 You then access it from your post template using the templates you know and love.
 
-Imagine the possibilities for a second. Create a feed where Twitter posts are mixed around block posts, show off your Instagram gallery and your LinkedIn activity all from your blog with no effort
+Imagine the possibilities for a second. Create a feed where your tweets are intertwined with markdown posts, and show off your Instagram gallery in parallel to your LinkedIn activity all from your blog. No wierd hacks, just built in.
 
 ### Shamans
 
-Shamens are good for when trinkets would be too intensive. They are quite similar, but are run in the DOM vs at compile time. Good for dynamic content and high file sizes. This also allows them to leverage all normal JavaScript features that might be relevant, like timeouts.
+Shamens are good for when trinkets would be too intensive. They are quite similar, but are run in the DOM instead of at compile time. This makes it good for for frequently updating or resource intensive content that might be better to render *just if* the user needs it
 
 ## Charms
 
-Charms are extensions for the parser. They can hook onto events the parser emits and action them accordingly. Our API has useful methods like `content.enclosedIn("**")` and `content.line.startswith("#")`. Similarly to Trinkets, our markdown to html is entirely written in in Charms
+Charms are extensions for the parser. They can hook onto events the parser emits and action them accordingly. Our API has useful methods like `content.enclosedIn("**")` and `content.line.startswith("#")`. Similarly to Trinkets, our markdown parser is entirely written in in Charms.
 
 ## Toys
 
@@ -55,6 +55,7 @@ Wrinkles "suck" cooki.. I mean posts, during compile time right after charms are
 
 1. Is used to build an indexDB of posts for search functionally
 2. Is used to generate feeds of posts meeting criteria, like tags
+3. Is used to craft a wonderful RSS feed
 
 Wrinklers are run sync, and they are allowed to modify metadata, although that is discouraged
 
