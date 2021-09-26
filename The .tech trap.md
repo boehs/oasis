@@ -45,7 +45,7 @@ Or, you could ditch the old one, leaving metric tons of dead links in your wake.
 
 ## This was avoidable
 
-Pay for the domain you want from the start, don't fa for this trap getting stuck between two horrible options
+Pay for the domain you want from the start, don't fall for this trap of getting stuck between two horrible options
 
 ## See Also
 
