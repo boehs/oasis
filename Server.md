@@ -19,7 +19,7 @@ Having a server means the phone can sync to that server, and then when the compu
 
 ## For friends and me
 
-### Email
+### Email forwarding 
 
 Ditching immature email with zero compromises
 
@@ -30,7 +30,7 @@ Ditching immature email with zero compromises
 
 Existing emails delivered to `cool_dude420@gmail.com`, but new contacts get my best face (`evan@boehs.io`). It forwards emails to `cool_dude420@gmail.com` without telling the sender, and vice versa
 
-### Hosting stuff
+### Hosting projects (many low traffic node, rust, and python servers)
 
 Host backends I write independent of my computer, so they are available when ever me or a friend needs them. Nothing high traffic in this section, but involves some MySQL and such. Mostly node, some rust.
 
@@ -51,7 +51,7 @@ That way, if a service goes rogue
 netflix -> netflix@alias.boehs.io 🚫 cool_dude420@gmail.com
 ```
 
-### Photo hosting
+### Photo hosting (Lychee)
 
 My photos are a large part of me, and I would like to have public galleries to share with not only my photography teacher, but anyone I give the link to. 
 
@@ -59,11 +59,11 @@ The software I use has password protected galleries support, so I can have fully
 
 A wonderful replacement for Google photos, because it is no longer free
 
-### Drive
+### Drive (NextCloud)
 
 I want to host a small file server that allows me to have public, unlisted, and password protected areas. In most cases, Google drive is appropriate, but occasionally drive.boehs.io/coolfile.png would be nice, to make it clear that information is by *me*.
 
-### Website
+### Website Hosting
 
 Serving static website that has my notes ([[Trinket]]).
 
