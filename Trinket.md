@@ -37,7 +37,7 @@ You then access it from your post template using the templates you know and love
 
 Imagine the possibilities for a second. Create a feed where Twitter posts are mixed around block posts, show off your Instagram gallery and your LinkedIn activity all from your blog with no effort
 
-### Shamens
+### Shamans
 
 Shamens are good for when trinkets would be too intensive. They are quite similar, but are run in the DOM vs at compile time. Good for dynamic content and high file sizes. This also allows them to leverage all normal JavaScript features that might be relevant, like timeouts.
 
