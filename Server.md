@@ -71,3 +71,7 @@ Serving static website that has my notes ([[Trinket]]).
 ## Security
 
 Because I am hosting this shit from my own wifi, security is important. 
+
+### Cloudflare
+
+Can't get better than this, 
