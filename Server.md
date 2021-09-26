@@ -14,6 +14,7 @@ I already explained why I love syncthing, but one limitation is both devices mus
 
 ![[Pasted image 20210925175359.png]]
 ![[Pasted image 20210925175325.png]]
+<sup>sexy art I know</sup>
 
 Having a server means the phone can sync to that server, and then when the computer goes online and the phone offline the computer can still sync.
 
@@ -61,7 +62,7 @@ A wonderful replacement for Google photos, because it is no longer free
 
 ### Drive (NextCloud)
 
-I want to host a small file server that allows me to have public, unlisted, and password protected areas. In most cases, Google drive is appropriate, but occasionally drive.boehs.io/coolfile.png would be nice, to make it clear that information is by *me*.
+I want to host a small file server that allows me to have public, unlisted, and password protected areas. In most cases, Google drive is appropriate, but occasionally drive.boehs.io/coolfile.png would be nice, to make it clear that information is by *me*. I really hate NextCloud, but it's the best option.
 
 ### Website Hosting
 
