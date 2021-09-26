@@ -43,11 +43,11 @@ Shamens are good for when trinkets would be too intensive. They are quite simila
 
 ## Charms
 
-Charms are extensions for the parser. They can hook onto events the parser emits and action them accordingly. Our API has useful methods like `content.enclosedIn("**")` and `content.line.startswith("#")`. Similarly to trinket, our markdown to html is entirely written in in Charms
+Charms are extensions for the parser. They can hook onto events the parser emits and action them accordingly. Our API has useful methods like `content.enclosedIn("**")` and `content.line.startswith("#")`. Similarly to Trinkets, our markdown to html is entirely written in in Charms
 
 ## Toys
 
-Toys mimic components in conventional static site generators. Pass data to them from markdown or templates, and get cool additions to your page like search bars
+Toys mimic components in conventional static site generators.
 
 ## Wrinklers
 
@@ -56,7 +56,7 @@ Wrinkles "suck" cooki.. I mean posts, during compile time right after charms are
 1. Is used to build an indexDB of posts for search functionally
 2. Is used to generate feeds of posts meeting criteria, like tags
 
-Wrinklers are also cool because they are the only part of compilation that is sync, if you need that sort of thing.
+Wrinklers are run sync, and they are allowed to modify metadata, although that is discouraged
 
 # magic
 
@@ -73,7 +73,7 @@ We are 100% commonmark complient, with extra features
   - Aliases
 - inline \#tagging
 - $La^{tex}$
-- ==\=\=Highlighting\=\===
+- ==\=\=Highlighting==\=\=
 - Footnotes
 - Citations^[1]
 - superscript and subscript
