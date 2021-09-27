@@ -1,3 +1,5 @@
+![[trink.png]]
+
 One might be tempted to think at first glance that Trinket is another static site generator, and in many ways it is
 
 1. It renders markdown to html
@@ -12,6 +14,11 @@ On top of that, trinket is a special hybrid of amazing things we took from our f
 4. First class terminal 👩‍💻 support
 
 But what makes trinket *special* are it's trinkets, charms, toys, wrinklers and shamans
+
+```toc
+    style: bullet
+    min_depth: 1
+```
 
 # The content ecosystem
 
@@ -38,7 +45,7 @@ You then access it from your post template using the templates you know and love
 Imagine the possibilities for a second. Create a feed where your tweets are intertwined with markdown posts, and show off your Instagram gallery in parallel to your LinkedIn activity all from your blog. No wierd hacks, just built in.
 
 ### Shamans
-
+![[shaman@2x.png]]
 Shamens are good for when trinkets would be too intensive. They are quite similar, but are run in the DOM instead of at compile time. This makes it good for for frequently updating or resource intensive content that might be better to render *just if* the user needs it
 
 ## Charms
@@ -59,7 +66,7 @@ Wrinkles "suck" cooki.. I mean posts, during compile time right after charms are
 
 Wrinklers are run sync, and they are allowed to modify metadata, although that is discouraged
 
-# magic
+# Magic 🧙
 
 Magic is a dedicated package manager for trinket. You can easily search new trinkets, charms, toys, and wrinklers to add to your site. Each one can have dependencies that are automatically resolved. 
 
