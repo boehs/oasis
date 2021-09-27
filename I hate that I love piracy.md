@@ -1,3 +1,7 @@
+---
+tags:
+- music
+---
 > Note, this post discuses illegal things that may make some readers feel uncomfortable - but is fair game under [[Not Included]]
 
 I can afford to subscribe to Spotify, I can afford to pay for books, and so I try. But whenever I choose to go the ethical route I find myself disappointed and unrewarded. The fact of the matter is piracy offers a better user experience, and as a consumer I seek it. 
