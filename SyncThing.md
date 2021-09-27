@@ -1,6 +1,7 @@
 ---
 tags:
 - showcase
+- blog
 ---
 
 Similar to my issues with [[Obsidian Publish]], I was not about to subscribe to 4$ a month to send markdown files from my phone to my computer. Obsidian's help docs suggest two mobile apps, but both synced to a server rather than device to device. Enter: SyncThing

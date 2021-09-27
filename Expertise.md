@@ -1,0 +1,1 @@
+Expertise is also not to be perfect, but being an artist in a given task

@@ -13,4 +13,8 @@ Instead, slow down. Smell the roses. Your project can wait. For the sake of you 
 - The **first option** is best if you do not intend to use your new skills further. By following this option, you will go slightly faster than option two - but you must be mindful while doing this to avoid going AFAP. For this, take your mega project and break it into small steps. Learn how to do one small step well, do it, than move onto the next.
 - The **second option** is to simply stop. Instead of working on a huge project you know nothing about, think about what you need to learn and put aside the project. instead, work on micro projects with the goal of becoming [[Proficiency|proficient]] each thing you need for the big project.
 
-Please, don't go AFAP, you will thank yourself later
+Please, don't go AFAP, you will thank yourself later.
+
+### See Also
+
+- [[Teach To Fish]]
