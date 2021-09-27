@@ -6,7 +6,7 @@ I write this "rant" to be the first person on the internet to say khan is not so
 
 ## A dictatorship
 
-There is no public information on khan academies power structure, aside from the fact that it has [executives](https://www.khanacademy.org/about/our-board). There is no way to vote in leaders, and no real way to hold them accountable other than abstaining from donation. This leads to near unlimited power. Sal has networth in the millions alone, and due to its dictatorship structure a hostile takeover to broadcast information on a "trusted" site like khan is possible - as we saw in freenode. This power structure ultimately leaves not only the [people](https://youtu.be/q8zKgd1r8uI?t=46) but the teachers powerless, leaving for issues like the [traditional school board](https://www.youtube.com/watch?v=mJBlgIA3K24).
+There is no public information on khan academies power structure, aside from the fact that it has [executives](https://www.khanacademy.org/about/our-board). There is no way to vote in leaders, and no real way to hold them accountable other than abstaining from donation. This leads to near unlimited power. Sal has networth in the millions alone, and due to its dictatorship structure a hostile takeover to broadcast information on a "trusted" site like khan is possible - as we saw in [[Freenode]]. This power structure ultimately leaves not only the [people](https://youtu.be/q8zKgd1r8uI?t=46) but the teachers powerless, leaving for issues like the [traditional school board](https://www.youtube.com/watch?v=mJBlgIA3K24).
 
 ## Closed source
 
@@ -18,7 +18,7 @@ While khan material is under CC BY-NC-SA 3.0 US, it's near impossible to effecti
 
 Finally, Khan contributors are always employees. This means we are relient on [bug reports](https://support.khanacademy.org/hc/en-us/articles/226373748-How-do-I-report-different-kinds-of-bugs-and-issues-#content) to fix issues, and who knows when or if it will be fixed. Additionally, raised issues are viewable only to khan staff removing even more accountability.
 
-Want to write more new content for khan for free because you love learning? You can't without giving up your job for a paid position.
+Want to write more new content for khan for free because you love learning? You can't without giving up your job for a paid position @ Khan.
 
 ## Uncited
 
@@ -26,7 +26,7 @@ I struggled to find citations for anything asserted on their site. This is espec
 
 # We can do better
 
-I dream of a curriculum where we are free. Free to and easy to clone, redistribute, and to modify. Where there is democratic government, so a hostile takeover is near impossible. Where changes are made in the open so that we hold those that make them more accountable. A curriculum that is modern and interactive, with a smaller focus on lectures.
+I dream of a curriculum where we are free. Free to and easy to clone, redistribute, and to modify. Where there is a [[Democracy for the internet|Democratic Government]], so a hostile takeover is near impossible. Where changes are made in the open so that we hold those that make them more accountable. A curriculum that is modern and interactive, with a smaller focus on [[lectures]].
 
 I don't think this exists today, but for a true radicle education platform something must change, to avoid all the issues we face today with the world's education in an online platform.
 
@@ -36,4 +36,4 @@ At the very least, the community must rid of the "Khan will change the world" me
 
 Sorry if my thoughts are slightly raw, wrote this in a hurry
 
-This post and all past material written by me that is hosted on lemmy is UNLICENSED. Do as you wish.
+This post and all past material written by me that is hosted on lemmy is #UNLICENSED. Do as you wish.

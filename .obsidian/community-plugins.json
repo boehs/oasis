@@ -6,5 +6,14 @@
   "calendar",
   "table-editor-obsidian",
   "obsidian-admonition",
-  "emoji-shortcodes"
+  "emoji-shortcodes",
+  "obsidian-autocomplete-plugin",
+  "dataview",
+  "darlal-switcher-plus",
+  "templater-obsidian",
+  "obsidian-outliner",
+  "periodic-notes",
+  "obsidian-reading-time",
+  "obsidian-focus-mode",
+  "cmenu-plugin"
 ]

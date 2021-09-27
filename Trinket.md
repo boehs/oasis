@@ -9,8 +9,8 @@ One might be tempted to think at first glance that Trinket is another static sit
 
 On top of that, trinket is a special hybrid of amazing things we took from our favorite static site generators, like
 
-2. Incredibly preferment, safe, and multithreaded code written in Rust 🦀
-3. Modern features to accommodate new way's of thinking, like digital gardens
+2. Incredibly preferment, safe, and multithreaded code written in [[Rust 🦀]]
+3. Modern features to accommodate new way's of thinking, like digital gardens [[d]]
 4. First class terminal 👩‍💻 support
 
 But what makes trinket *special* are it's trinkets, charms, toys, wrinklers and shamans

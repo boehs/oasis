@@ -52,19 +52,19 @@ That way, if a service goes rogue
 netflix -> netflix@alias.boehs.io 🚫 cool_dude420@gmail.com
 ```
 
-### Photo hosting (Lychee)
+### Photo hosting ([[Lychee]])
 
 My photos are a large part of me, and I would like to have public galleries to share with not only my photography teacher, but anyone I give the link to. 
 
 The software I use has password protected galleries support, so I can have fully public ones, and a special gallery for class, for my family, and for me.
 
-A wonderful replacement for Google photos, because it is no longer free
+A wonderful replacement for Google #photos, because it is no longer free
 
-### Drive (NextCloud)
+### Drive ([[NextCloud]])
 
 I want to host a small file server that allows me to have public, unlisted, and password protected areas. In most cases, Google drive is appropriate, but occasionally drive.boehs.io/coolfile.png would be nice, to make it clear that information is by *me*. I really hate NextCloud, but it's the best option.
 
-### Website Hosting
+### Website Hosting ([[Why|Digital Garden]])
 
 Serving static website that has my notes ([[Trinket]]).
 
@@ -72,6 +72,7 @@ Serving static website that has my notes ([[Trinket]]).
 
 Because I am hosting this shit from my own wifi, security is important. 
 
-### Cloudflare
+### [[CloudFlare]]
 
-Can't get better than this, 
+Can't get better than this, free and hides my IP
+
