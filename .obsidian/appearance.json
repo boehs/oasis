@@ -1,5 +1,6 @@
 {
   "baseFontSize": 13,
-  "translucency": true,
-  "cssTheme": "Minimal"
+  "translucency": false,
+  "cssTheme": "Minimal",
+  "theme": "obsidian"
 }
