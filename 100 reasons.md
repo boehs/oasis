@@ -28,7 +28,6 @@ Reasons why you should stay alive.
 25. Really soft pillows. 
 26. Eating pizza in New York City. 
 27. Proving people wrong with your success. 
-	1. Watching the jerks that doubted you fail at life. 
 28. Seeing someone trip over a garbage can. 
 29. Being able to help other people. 
 30. Bonfires.

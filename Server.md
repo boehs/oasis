@@ -74,5 +74,5 @@ Because I am hosting this shit from my own wifi, security is important.
 
 ### [[CloudFlare]]
 
-Can't get better than this, free and hides my IP
+Can't get better than this, free and hides my IP from scary DoS and Doxx
 
