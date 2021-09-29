@@ -30,8 +30,5 @@ The `.absolute` div is laid out with the normal flow of the page, and we can man
 
 ### Defaults
 
-It's important to know that divisions often appear white because the default color of the body is also white even though obviously they're transparent because what happens if you line a div on top of another one.
-
-It's important to remember that they're transparent unless you specify the `background` property.
-
+It's important to know that divisions often appear white because the default color of the body is also white. It's important to remember that they're transparent unless you specify the `background` property.
 This came up when I believe that `z-index` wasn't working properly and I assumed that the index didn't apply to background colors

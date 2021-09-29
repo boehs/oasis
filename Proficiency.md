@@ -1,6 +1,6 @@
 What does it mean to be proficient? [[Wikipedia]], somewhat surprisingly, offers no help; so it must be defined here.
 
-I consider myself proficient once I feel comfortable that I have enough skill to survive in all likely senecios without external aid. Examples:
+I consider myself proficient once I feel comfortable that I have enough skill to survive in all likely situations without external aid. Examples:
 
 - **In #language** this means I can navigate social situations with relative ease
 - **In #programming 👨‍💻** This means I can accomplish any task presented (obviously provided I understand the needed tools aside from the programming language), if not in the best possible way
