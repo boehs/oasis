@@ -31,6 +31,8 @@
 - ![[Pasted image 20210909002635.png]] (https://jsben.ch/vSgoN)
 - ![[Pasted image 20210909001938.png]]
 	- ![[Pasted image 20210909002024.png]]
+	- https://josephg.com/blog/electron-is-flash-for-the-desktop/
+		- https://idlewords.com/talks/website_obesity.htm
 - ![[Pasted image 20210909002233.png]]
 - ![[Pasted image 20210928211831.png]]
 
