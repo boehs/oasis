@@ -76,3 +76,10 @@ Because I am hosting this shit from my own wifi, security is important.
 
 Can't get better than this, free and hides my IP from scary DoS and Doxx
 
+### Some tips
+
+- https://makezine.com/2017/09/07/secure-your-raspberry-pi-against-attackers/ *
+- https://blog.robertelder.org/securing-a-raspberry-pi/
+- https://raspberrytips.com/security-tips-raspberry-pi/
+- https://pimylifeup.com/raspberry-pi-security/
+- https://gist.github.com/boseji/c9e91ff3bd0b3cfb62a5e260fe505374 *
