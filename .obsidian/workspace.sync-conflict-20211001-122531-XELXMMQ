@@ -1,0 +1,123 @@
+{
+  "main": {
+    "id": "c0259719481a5812",
+    "type": "split",
+    "children": [
+      {
+        "id": "21fd817baa43cf75",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Dunkin.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8c7d97448153c221",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "186dfae78cb1f188",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "4f1087b1b5eb9b18",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "d1f8bdb38c5e8221",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "a5808b651b8d34b7",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "47511609dcbe8b41",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "59907bb5c15a51b6",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "92c9bfe099e75edc",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Dunkin.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "855c4be9326a16ad",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Dunkin.md"
+          }
+        }
+      }
+    ]
+  },
+  "active": "21fd817baa43cf75",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Buying a lens.md",
+    "Trinket.md",
+    "Lens list.md",
+    "Server.md",
+    "Nine Wishes.md",
+    "Significance.md",
+    "Songs to download higher quality.md",
+    "Teach To Fish.md",
+    "The stages of love.md"
+  ]
+}
