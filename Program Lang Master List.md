@@ -14,9 +14,7 @@ To prevent bias, Languages are ordered alphabetically.
 
 Enjoy! 
 
-## The list
-
-#### Actual list
+## Actual list
 
 - C++
 - C#
@@ -49,3 +47,5 @@ Enjoy!
 - Julia
 - Racket
 - Zig
+
+## Removing from 
