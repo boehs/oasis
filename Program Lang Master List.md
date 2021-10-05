@@ -16,4 +16,16 @@ Enjoy!
 
 ## The list
 
-###
+#### Actual list
+
+- Nim
+- Python
+- Raku
+- Rust
+- Swift
+- JavaScript
+- TypeScript
+- Go
+- Perl
+- Haskle
+- E.
