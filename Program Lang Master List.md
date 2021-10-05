@@ -18,14 +18,34 @@ Enjoy!
 
 #### Actual list
 
+- C++
+- C#
+- C
+- Crystal
+- Clojure
+- D
+- Elm
 - Nim
 - Python
-- Raku
 - Rust
+- Raku
+- R
 - Swift
+- Java
 - JavaScript
 - TypeScript
 - Go
 - Perl
-- Haskle
-- E.
+- PureScript
+- Haskell
+- Kotlin
+- PHP
+- Scala
+- Dart
+- Erlang
+- Elixer
+- Fortran
+- Groovy
+- Julia
+- Racket
+- Zig
