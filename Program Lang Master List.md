@@ -48,4 +48,10 @@ Enjoy!
 - Racket
 - Zig
 
-## Removing from 
+## Removing the nonos
+
+### Duplicates
+
+- Typescript is objectively better than JavaScript in every single way, so ~~JavaScript~~
+- Raku is probably better than ~~Perl~~
+-  
