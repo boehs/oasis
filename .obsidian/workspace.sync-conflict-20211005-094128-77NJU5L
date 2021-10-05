@@ -1,0 +1,139 @@
+{
+  "main": {
+    "id": "c0259719481a5812",
+    "type": "split",
+    "children": [
+      {
+        "id": "21fd817baa43cf75",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Program Lang Master List.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "716049f215cb62f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d07119010a53b26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4fe7e23c790e1fc3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "409ac1414d4a9cf4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2c47faf5770b8a48",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2d1fa63af5808c62",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a664f44e0eb9cdd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f36a6900b285ff1",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "6aac089d831f120f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Program Lang Master List.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7846a5bd7560333e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ea55981fb5b88880",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Program Lang Master List.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "21fd817baa43cf75",
+  "lastOpenFiles": [
+    "Program Lang Master List.md",
+    "Untitled.md",
+    "Trinket.md",
+    "Paper Mario.md",
+    "Dunkin.md",
+    "Dunkin'.md",
+    "Dun.md",
+    "Buying a lens.md",
+    "Lens list.md",
+    "Server.md"
+  ]
+}
