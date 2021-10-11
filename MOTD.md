@@ -3,6 +3,16 @@ tags:
 - poetry
 ---
 
+> Unorganized, but beautiful
+> An incessant plea
+> A testomonony of suffering
+> And of happiness
+> As I pick my way through life.
+> Abrupt, uncontrolled, incomprehencable, raw.
+> Funny. Me.
+
+---
+
 I saw someone cute today
 On the other side of the glass
 I glanced, she smiled back
@@ -26,3 +36,20 @@ Watching you laugh with gabe
 All my friends found their people
 And so I find myself
 Alone.
+
+---
+
+I stare at your hair
+Wishing somehow
+I could be enough
+
+---
+
+> I feel life for the very first time
+Love in my arms
+The sun in my eyes
+I feel safe in the 5am light
+You carry my fears
+As the heavens set fire
+
+- Oh wonder
