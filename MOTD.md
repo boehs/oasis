@@ -1,14 +1,19 @@
 ---
 tags:
 - poetry
+edit:
+- randomize:
+  - ---
+---
+
 ---
 
 > Unorganized, but beautiful
 > An incessant plea
 > A testomonony of suffering
 > And of happiness
-> As I pick my way through life.
-> Abrupt, uncontrolled, incomprehencable, raw.
+> Weaved as I pick my way through life.
+> Abrupt, uncontrolled, incomprehencable, random, and raw.
 > Funny. Me.
 
 ---
@@ -53,3 +58,31 @@ You carry my fears
 As the heavens set fire
 
 - Oh wonder
+
+---
+
+There is a spot on my face
+My outfit could be better
+My nails are forcefully raw
+And my eyes are red
+But on the end of the lens
+They don't care
+Now preserved.
+
+---
+
+Why now
+It could never
+Not to me
+And yet it is
+Scared.
+
+---
+
+![[Pasted image 20211011192755.png]]
+
+---
+
+Just one more thing
+Till it all works out
+It never does in the end
