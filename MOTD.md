@@ -75,7 +75,6 @@ Why now
 It could never
 Not to me
 And yet it is
-Scared.
 
 ---
 
