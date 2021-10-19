@@ -58,7 +58,7 @@ Enjoy!
 	- But it confuses me
 - Kotlin is certainly a better option than Java
 
-
+```
 | Feature                     | Kotlin                                                                                                                                                                                                                                              | Java                                                                                                                                                                                                                                                                |   |
 |-----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
 | Extension Functions         | The extension function is available in Kotlin. Android extensions are useful as they allow developers to add methods to classes without making changes to their source code. Developers have the ability to extend a class with new functionality.  | Java developers need to create a new class to extend the functionality of the existing class, so from now users can use a newly created class everywhere to use the extended functionality.                                                                         |   |
@@ -73,7 +73,7 @@ Enjoy!
 | Blend of Functional and OOP | Kotlin is the blend of functional and object oriented programming.                                                                                                                                                                                  | Java is based only on OOP (Object Oriented Programming).                                                                                                                                                                                                            |   |
 | Language Scripting          | Kotlin offers language scripting capabilities to use the language straight into your Gradle build scripts.                                                                                                                                          | Java does not enable programmers to use language scripting capabilities.                                                                                                                                                                                            |   |
 | Lambda Expression           | Lambda Expression is supported in Kotlin.                                                                                                                                                                                                           | The Lambda Expression is not supported in Java.                                                                                                                                                                                                                     |   |
-
+```
 ## V2 
 
 a bit of sorting
