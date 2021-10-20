@@ -2859,45 +2859,27 @@ The origami king : No
 
 [The Adventures of Lunar1314](https://www.google.com/url?q=https://discord.gg/tJ3VK7FkXu&sa=D&source=editors&ust=1633200539325000&usg=AOvVaw2GKCTc6sgte1uvgSatYccT) 
 
-\-- SOURCES --
+## SOURCES
 
-[ORIGINAL VIDEO](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DOmBgAa3S3vo%26lc%3DUgyyCcPn70lix98z4Sl4AaABAg&sa=D&source=editors&ust=1633200539326000&usg=AOvVaw3Rh0pMJXACGLXNDtmYWAv-)
-
-[ARCHIVE.TODAY’S ARCHIVE](https://www.google.com/url?q=https://archive.vn/2U1mH&sa=D&source=editors&ust=1633200539326000&usg=AOvVaw2O3yeOySoq41J_GrIvD4El)
-
-[WAYBACK MACHINE’S ARCHIVE](https://www.google.com/url?q=https://web.archive.org/web/*/https://www.youtube.com/watch?v%3DOmBgAa3S3vo&sa=D&source=editors&ust=1633200539327000&usg=AOvVaw3nt97mz88kk7F-PHumPyeW)
-
-[VIDEO ARCHIVE #1](https://www.google.com/url?q=https://twitter.com/NexpoYT/status/1294507988313669633&sa=D&source=editors&ust=1633200539327000&usg=AOvVaw2oannBOzX1q8jO6DLOJ6OU) (NexpoYT)
-
-[VIDEO ARCHIVE #2](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DjEEUmfW0qFQ&sa=D&source=editors&ust=1633200539328000&usg=AOvVaw3Zq7OgbaMSaUtITeag7sbB) (cr1tical)
-
-[VIDEO ARCHIVE #3](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DrPIYEutXyRo&sa=D&source=editors&ust=1633200539328000&usg=AOvVaw2alQpE_EptHpYBvtFJ6q__) (Artificial Light)
-
-[LUNAR1314’S CHANNEL](https://www.google.com/url?q=https://www.youtube.com/channel/UCg3wEXx9R8wRGczQ4VmRIIw&sa=D&source=editors&ust=1633200539329000&usg=AOvVaw393uPo7wQqLoVlHKXvVqHs)
-
-[LUNAR1314’S ICON](https://www.google.com/url?q=https://yt3.ggpht.com/a/AATXAJxXU_DDhvygGJoPEumPR8yJXjO6isZOEYCrHuu_%3Ds100-c-k-c0xffffffff-no-rj-mo&sa=D&source=editors&ust=1633200539329000&usg=AOvVaw1qrqaryEJdJX_v7qa0OBAd)
-
-[LUNAR1314’S ICON HD](https://www.google.com/url?q=https://cdn.discordapp.com/attachments/803109862136348712/804482070389719090/image0.png&sa=D&source=editors&ust=1633200539330000&usg=AOvVaw3rIQA95dYFbpoFne48-vG-)
-
-[LUNAR1314’S ICON HD (MIRROR)](https://www.google.com/url?q=https://drive.google.com/file/d/1jbW61JmtnK3dxNjyQ-z40EO8F4rxns5E/view?usp%3Dsharing&sa=D&source=editors&ust=1633200539330000&usg=AOvVaw0x26QzFsO5U9-tbCd7_Lab)
-
-[ARAMARU 1837’S CHANNEL](https://www.google.com/url?q=https://www.youtube.com/channel/UCv8aa_c-T088AlmswBJErOA&sa=D&source=editors&ust=1633200539331000&usg=AOvVaw0Gul-xSeOuXsnWGZXo4vpr)
-
-[ARAMARU 1837’S ARCHIVE](https://www.google.com/url?q=https://www.youtube.com/channel/UC_SAFO8G2-U6ppbj2OV-Dqw/featured&sa=D&source=editors&ust=1633200539331000&usg=AOvVaw1sO2ANtMUgT4h_-vxfpNdx)
-
-[ARAMARU 1837’S](https://www.google.com/url?q=https://www.youtube.com/channel/UC_SAFO8G2-U6ppbj2OV-Dqw/featured&sa=D&source=editors&ust=1633200539332000&usg=AOvVaw2b8zgk1rr8Mt5U2igcymRl) [ICON](https://www.google.com/url?q=https://cdn.discordapp.com/attachments/803109862136348712/804482070687645766/image1.png&sa=D&source=editors&ust=1633200539332000&usg=AOvVaw3KIXz6g-9msRAVJ_IpcRFt)
-
-[ARAMARU 1837’S ICON (MIRROR)](https://www.google.com/url?q=https://drive.google.com/file/d/1tU8p9B1F0osKAFy6afpfrXx4Yn8lzFd1/view?usp%3Dsharing&sa=D&source=editors&ust=1633200539332000&usg=AOvVaw3NMzcIZHfSQ2SOtsdQNNAw)
-
-[ARAMARU 1837’S ICON HD](https://www.google.com/url?q=https://drive.google.com/file/d/1y7pEKRSkJLae6w_JUtVKVob4V3EI7-1P/view&sa=D&source=editors&ust=1633200539333000&usg=AOvVaw1ruWpkQ0j_pQVAm6yE5PKX)
-
-[DAVE MATHEW’S CHANNEL](https://www.google.com/url?q=https://www.youtube.com/channel/UCrrPIuQehCJ6lMWcSZeF_LQ&sa=D&source=editors&ust=1633200539333000&usg=AOvVaw03nhFbhuUrxABQ9JG7YYF4)
-
-[DAVE MATHEW’S ICON](https://www.google.com/url?q=https://yt3.ggpht.com/a/AATXAJwXpVDvCzcsE9TybfTGBVyJuVN4ONrzyah2wQ%3Ds288-c-k-c0xffffffff-no-rj-mo&sa=D&source=editors&ust=1633200539334000&usg=AOvVaw2Am7wNxX3p7Y7jD2Pqvrit)
-
-[DAVE MATHEW’S](https://www.google.com/url?q=https://yt3.ggpht.com/a/AATXAJwXpVDvCzcsE9TybfTGBVyJuVN4ONrzyah2wQ%3Ds288-c-k-c0xffffffff-no-rj-mo&sa=D&source=editors&ust=1633200539334000&usg=AOvVaw2Am7wNxX3p7Y7jD2Pqvrit) [ICON HD](https://www.google.com/url?q=https://cdn.discordapp.com/attachments/803109862136348712/804482071044423731/image2.png&sa=D&source=editors&ust=1633200539334000&usg=AOvVaw08PW87Hw8m5SQ08wpyznAe)
-
-[DAVE MATHEW’S](https://www.google.com/url?q=https://yt3.ggpht.com/a/AATXAJwXpVDvCzcsE9TybfTGBVyJuVN4ONrzyah2wQ%3Ds288-c-k-c0xffffffff-no-rj-mo&sa=D&source=editors&ust=1633200539335000&usg=AOvVaw2rHTv655iyag8qnV8IdJsB) [ICON HD](https://www.google.com/url?q=https://drive.google.com/file/d/1xp3O4tFIsz-ycfQya61FFON3uwR-3D8F/view?usp%3Dsharing&sa=D&source=editors&ust=1633200539335000&usg=AOvVaw2sG-QHAQdXwYgdnMnBBQ0j) [(MIRROR)](https://www.google.com/url?q=https://drive.google.com/file/d/1tU8p9B1F0osKAFy6afpfrXx4Yn8lzFd1/view?usp%3Dsharing&sa=D&source=editors&ust=1633200539335000&usg=AOvVaw15RzjXmJSBKIt9BUJdQHKF)
+* [ORIGINAL VIDEO](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DOmBgAa3S3vo%26lc%3DUgyyCcPn70lix98z4Sl4AaABAg&sa=D&source=editors&ust=1633200539326000&usg=AOvVaw3Rh0pMJXACGLXNDtmYWAv-)
+* [ARCHIVE.TODAY’S ARCHIVE](https://www.google.com/url?q=https://archive.vn/2U1mH&sa=D&source=editors&ust=1633200539326000&usg=AOvVaw2O3yeOySoq41J_GrIvD4El)
+* [WAYBACK MACHINE’S ARCHIVE](https://www.google.com/url?q=https://web.archive.org/web/*/https://www.youtube.com/watch?v%3DOmBgAa3S3vo&sa=D&source=editors&ust=1633200539327000&usg=AOvVaw3nt97mz88kk7F-PHumPyeW)
+* [VIDEO ARCHIVE #1](https://www.google.com/url?q=https://twitter.com/NexpoYT/status/1294507988313669633&sa=D&source=editors&ust=1633200539327000&usg=AOvVaw2oannBOzX1q8jO6DLOJ6OU) (NexpoYT)
+* [VIDEO ARCHIVE #2](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DjEEUmfW0qFQ&sa=D&source=editors&ust=1633200539328000&usg=AOvVaw3Zq7OgbaMSaUtITeag7sbB) (cr1tical)
+* [VIDEO ARCHIVE #3](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DrPIYEutXyRo&sa=D&source=editors&ust=1633200539328000&usg=AOvVaw2alQpE_EptHpYBvtFJ6q__) (Artificial Light)
+* [LUNAR1314’S CHANNEL](https://www.google.com/url?q=https://www.youtube.com/channel/UCg3wEXx9R8wRGczQ4VmRIIw&sa=D&source=editors&ust=1633200539329000&usg=AOvVaw393uPo7wQqLoVlHKXvVqHs)
+* [LUNAR1314’S ICON](https://www.google.com/url?q=https://yt3.ggpht.com/a/AATXAJxXU_DDhvygGJoPEumPR8yJXjO6isZOEYCrHuu_%3Ds100-c-k-c0xffffffff-no-rj-mo&sa=D&source=editors&ust=1633200539329000&usg=AOvVaw1qrqaryEJdJX_v7qa0OBAd)
+* [LUNAR1314’S ICON HD](https://www.google.com/url?q=https://cdn.discordapp.com/attachments/803109862136348712/804482070389719090/image0.png&sa=D&source=editors&ust=1633200539330000&usg=AOvVaw3rIQA95dYFbpoFne48-vG-)
+* [LUNAR1314’S ICON HD (MIRROR)](https://www.google.com/url?q=https://drive.google.com/file/d/1jbW61JmtnK3dxNjyQ-z40EO8F4rxns5E/view?usp%3Dsharing&sa=D&source=editors&ust=1633200539330000&usg=AOvVaw0x26QzFsO5U9-tbCd7_Lab)
+* [ARAMARU 1837’S CHANNEL](https://www.google.com/url?q=https://www.youtube.com/channel/UCv8aa_c-T088AlmswBJErOA&sa=D&source=editors&ust=1633200539331000&usg=AOvVaw0Gul-xSeOuXsnWGZXo4vpr)
+* [ARAMARU 1837’S ARCHIVE](https://www.google.com/url?q=https://www.youtube.com/channel/UC_SAFO8G2-U6ppbj2OV-Dqw/featured&sa=D&source=editors&ust=1633200539331000&usg=AOvVaw1sO2ANtMUgT4h_-vxfpNdx)
+* [ARAMARU 1837’S](https://www.google.com/url?q=https://www.youtube.com/channel/UC_SAFO8G2-U6ppbj2OV-Dqw/featured&sa=D&source=editors&ust=1633200539332000&usg=AOvVaw2b8zgk1rr8Mt5U2igcymRl) [ICON](https://www.google.com/url?q=https://cdn.discordapp.com/attachments/803109862136348712/804482070687645766/image1.png&sa=D&source=editors&ust=1633200539332000&usg=AOvVaw3KIXz6g-9msRAVJ_IpcRFt)
+* [ARAMARU 1837’S ICON (MIRROR)](https://www.google.com/url?q=https://drive.google.com/file/d/1tU8p9B1F0osKAFy6afpfrXx4Yn8lzFd1/view?usp%3Dsharing&sa=D&source=editors&ust=1633200539332000&usg=AOvVaw3NMzcIZHfSQ2SOtsdQNNAw)
+* [ARAMARU 1837’S ICON HD](https://www.google.com/url?q=https://drive.google.com/file/d/1y7pEKRSkJLae6w_JUtVKVob4V3EI7-1P/view&sa=D&source=editors&ust=1633200539333000&usg=AOvVaw1ruWpkQ0j_pQVAm6yE5PKX)
+* [DAVE MATHEW’S CHANNEL](https://www.google.com/url?q=https://www.youtube.com/channel/UCrrPIuQehCJ6lMWcSZeF_LQ&sa=D&source=editors&ust=1633200539333000&usg=AOvVaw03nhFbhuUrxABQ9JG7YYF4)
+* [DAVE MATHEW’S ICON](https://www.google.com/url?q=https://yt3.ggpht.com/a/AATXAJwXpVDvCzcsE9TybfTGBVyJuVN4ONrzyah2wQ%3Ds288-c-k-c0xffffffff-no-rj-mo&sa=D&source=editors&ust=1633200539334000&usg=AOvVaw2Am7wNxX3p7Y7jD2Pqvrit)
+* [DAVE MATHEW’S](https://www.google.com/url?q=https://yt3.ggpht.com/a/AATXAJwXpVDvCzcsE9TybfTGBVyJuVN4ONrzyah2wQ%3Ds288-c-k-c0xffffffff-no-rj-mo&sa=D&source=editors&ust=1633200539334000&usg=AOvVaw2Am7wNxX3p7Y7jD2Pqvrit) [ICON HD](https://www.google.com/url?q=https://cdn.discordapp.com/attachments/803109862136348712/804482071044423731/image2.png&sa=D&source=editors&ust=1633200539334000&usg=AOvVaw08PW87Hw8m5SQ08wpyznAe)
+* [DAVE MATHEW’S](https://www.google.com/url?q=https://yt3.ggpht.com/a/AATXAJwXpVDvCzcsE9TybfTGBVyJuVN4ONrzyah2wQ%3Ds288-c-k-c0xffffffff-no-rj-mo&sa=D&source=editors&ust=1633200539335000&usg=AOvVaw2rHTv655iyag8qnV8IdJsB) [ICON HD](https://www.google.com/url?q=https://drive.google.com/file/d/1xp3O4tFIsz-ycfQya61FFON3uwR-3D8F/view?usp%3Dsharing&sa=D&source=editors&ust=1633200539335000&usg=AOvVaw2sG-QHAQdXwYgdnMnBBQ0j) [(MIRROR)](https://www.google.com/url?q=https://drive.google.com/file/d/1tU8p9B1F0osKAFy6afpfrXx4Yn8lzFd1/view?usp%3Dsharing&sa=D&source=editors&ust=1633200539335000&usg=AOvVaw15RzjXmJSBKIt9BUJdQHKF)
 
 [BROOKLYN GREEN’S CHANNEL](https://www.google.com/url?q=https://www.youtube.com/channel/UCnN5lm8M-WbU7r0GiPGiTDg&sa=D&source=editors&ust=1633200539336000&usg=AOvVaw31XDzJI7vv97vURmExH__R)
 
