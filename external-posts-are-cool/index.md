@@ -1,0 +1,1 @@
+You can include static files in this folder!
