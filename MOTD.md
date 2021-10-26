@@ -61,11 +61,8 @@ As the heavens set fire
 
 ---
 
-There is a spot on my face
-My outfit could be better
-My nails are forcefully raw
-And my eyes are red
-But on the end of the lens
+Mess.
+But on that end of the lens
 They don't care
 Now preserved.
 
@@ -91,3 +88,9 @@ Does it ever
 > I don't want you to fix me, I just want you to listen
 
 - Jason Reid, "My Son Died By Suicide"
+
+---
+
+> He would write beautiful code, code written just because it could be done, rather than to solve a particular problem. He wrote code because it was fun, and the code was justified by its own existence.
+
+Eleanor McHugh, in memory of *_why*

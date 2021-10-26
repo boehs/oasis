@@ -80,7 +80,7 @@ We are 100% commonmark complient, with extra features
 - Front matter
   - Aliases
 - inline \#tagging
-- $La^{tex}$
+- $$La^tex$$
 - ==\=\=Highlighting==\=\=
 - Footnotes
 - Citations^[1]

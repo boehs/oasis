@@ -2,6 +2,7 @@
 tags:
 - lorum
 - dolor
+date: 2019-12-23
 ---
 
 # Lorem ipsum dolor sit amet
