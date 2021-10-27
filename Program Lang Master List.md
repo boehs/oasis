@@ -20,7 +20,6 @@ Enjoy!
 - C#
 - C
 - Crystal
-- Clojure
 - D
 - Dart
 - Erlang
@@ -46,8 +45,14 @@ Enjoy!
 - PHP
 - Scala
 - Julia
-- Racket
 - Zig
+- lisp
+	- Clojure
+	- [Racket](https://en.wikipedia.org/wiki/Racket_(programming_language))
+	- Carp
+- Fennel
+- Red
+- Porth
 
 ## Removing the nonos
 
