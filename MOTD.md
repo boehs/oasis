@@ -18,20 +18,6 @@ edit:
 
 ---
 
-I saw someone cute today
-On the other side of the glass
-I glanced, she smiled back
-And then we passed
-
-![[just-smile-and-wave-boys-smile-and-wave.jpg]]
-
----
-
-I stare at your hair from the desk behind 
-Watching you laugh with gabe
-
----
-
 > “I may disagree with what you say, but I will defend to the death your right to say it.”
 
 - Voltaire
@@ -58,24 +44,6 @@ You carry my fears
 As the heavens set fire
 
 - Oh wonder
-
----
-
-Mess.
-But on that end of the lens
-They don't care
-Now preserved.
-
----
-
-Why now
-It could never
-Not to me
-And yet it is
-
----
-
-![[Pasted image 20211011192755.png]]
 
 ---
 
