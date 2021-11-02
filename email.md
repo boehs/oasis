@@ -50,4 +50,16 @@ I think alias.domain is the winner, but I think it will be hulu@account.domain
 
 #### Should I have a lists address
 
-This one is easily investigatable 
+This one is easily investigatable should I have time, what do other people on my mailinglists do?
+
+# But I overthink
+
+Is there not a crossover between work and life? I love Programming. I now maintain three emails, alias@domain, evan@domain, and contact@domain
+
+### alias
+
+for things I expect to spam, for non meaningful services
+
+### contact
+
+my contact form, populates `+` alias with 
