@@ -36,7 +36,18 @@ We like graphs around here right?
 
 ![[Pasted image 20211102002528.png]]
 
-Cool, so
+## Cool, so
 
 1. What strat for news letters
-2. 
+2. Who gets evan@domain.io
+3. Should I have a lists aderess?
+
+### What strat for news letters
+
+I think alias.domain is the winner, but I think it will be hulu@account.domain
+
+### Who gets evan@domain
+
+#### Should I have a lists address
+
+This one is easily investigatable 
