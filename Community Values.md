@@ -12,7 +12,7 @@ My communities don't live by rules. I don't think our government's well intended
 
 It's not a moderators job to decide what is right for the community, rather the community itself. This means discussion and elections before big changes, like the appointment or a new moderator or [[breaking changes]].
 
-This extends to the small scale too. If it seems the majority of the people reacting to your behavior don't like it, cut it. Additionally, please bring common sense with you, if *you think* your behavior is negative, it probably is
+This extends to the small scale too. If it seems the majority of the people reacting to your behavior don't like it, cut it. Additionally, please bring common sense with you, if *you think* your behavior could be interpreted as negative, it probably is
 
 ## Equal
 
@@ -24,11 +24,11 @@ When joining one of my communities, I ask you include everyone, regardless of ag
 
 ## Friendly
 
-Finally, we should be [[friendly to all]]. Complementing the idea of inclusivity, I hope everyone coming brings a positive mindset and is willing to laugh a bit with us.
+Finally, we should be [[friendly to all]]. Complementing the idea of inclusivity, I hope everyone coming brings a positive mindset and is willing to laugh a bit with us. Not everything needs to be serious all the time, as long as it's overall constructive and everyone is feeling great I don't see an issue with some deviation.
 
 # A call to action
 
-These guidelines so to speak are deliberately non-specific. This is partially to prevent [[rule-lawyering]], but also to help you make the community what *you* want. Bring changes to the table, and don't be afraid to [[WP:NORULES|break them In a constructive way]]. 
+These guidelines so to speak are deliberately non-specific. This is partially to prevent [[rule lawyering]], but also to help you make the community what *you* want. Bring changes to the table, and don't be afraid to [[WP:NORULES|break them In a constructive way]]. 
 
 # Punishment
 
