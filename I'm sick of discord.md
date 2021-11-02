@@ -41,4 +41,8 @@ Normally via socially engineering, this form of raiding is destructive, attempti
 
 ### The Moderation Issues
 
-Discord, you seem to have forgotten what your platform was built on. Hard working, volunteer moderators. Despite the memes, many mods work for you because they care about something, be that video games, knitting, or soccer. Huge problems have been ignored, and it seems like you do nothing but victim shame. You have not provided mods with the tools they need to keep their communities safe, and therefor they must make 
+Discord, you seem to have forgotten what your platform was built on. Hard working, volunteer moderators. Despite the memes, many mods work for you because they care about something, be that video games, knitting, or soccer. Huge problems have been ignored, and it seems like you do nothing but victim shame. You have not provided mods with the tools they need to keep their communities safe, and therefor they must make tools for themselves beyond what they signed up for so they can support their communities. Some things are impossible to implement without you.
+
+#### Proper word blacklists
+
+Filtering is stupid, Provide small 
