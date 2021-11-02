@@ -18,10 +18,14 @@ Normally via socially engineering, this form of raiding is destructive, attempti
 
 - Rocket League (Phishing/Logging)
 - The coding den (Social engineering)
-- Lust [NSFW] (Exploitation)
+- Lust [NSFW] (Bot Exploitation)
 - Risk of Rain (Phishing/Logging)
 
 #### Raids
 
 - r/steam
-- 
+- The Coding Den
+- r/music
+- Repl.it
+
+*note once again this list is incomplete, and this is *
