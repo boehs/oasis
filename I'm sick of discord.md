@@ -1,0 +1,7 @@
+*An open letter to discord regarding the cruel victimization of server moderators and the state of the platform for those who care the most*
+
+Dear Discord.inc
+
+I joined this platform in it's intimacy. It started with love, because discord *was* my place to hang out. It connected me with the people I knew, and gave me opportunities to meet new people. I watched it grow, and I can remember when people would ask "what's discord?". Times have changed, and am proud to say I was there to watch the platform evolve. I have always been a vocal critic, rarely offering up my encouragement yet often suggesting ways things could change. I like to think I did it out of love, I wanted to see you "take a turn for the better", but I understand what is best for me is not always for you. Being in the ecosystem so long, I have found myself vested. At one point, I eagerly monitored the dataminers, looking for new exciting gifts to dig my teeth into. At another, I eagerly developed unique bots bringing new things to the servers I loved. Today, I find myself a moderator in a variety of communities. I need to thank you. Moderating has gifted me with new skills, and after restarting my excitement about programming with bot development I found myself in a much better job. I think my time vested was ultimately for the better, but today, I am done.
+
+Being involved has not just shaped me for the better, it has made the platform's flaws blatant, and I have come discover a toxic culture of neglect.
