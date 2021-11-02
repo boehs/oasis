@@ -16,16 +16,29 @@ I think it started with the raids, and those have continued to be prevalent. I c
 
 Normally via socially engineering, this form of raiding is destructive, attempting to wreck irreversible havoc, by deleting channels, pinging @everyone, removing roles, and mass banning as possible. Typically via social engineering or flaw discovery, these are hard often hard to stop.
 
+*raids by same raider indented*
+
 - Rocket League (Phishing/Logging)
-- The coding den (Social engineering)
+- The coding den (Social engineering -> Ping spam, channel rename)
+	- FIFA (?, same as TCD)
+	- Chill Zone (?, same as TCD)
 - Lust [NSFW] (Bot Exploitation)
 - Risk of Rain (Phishing/Logging)
 
 #### Raids
 
-- r/steam
-- The Coding Den
-- r/music
-- Repl.it
+- r/steam (scammers)
+- The Coding Den (Various)
+- r/music (nitro scams)
+- Repl.it (nitro scams)
+- Frog's Dream World (Tooling around)
+	- CallMeCarson
+	- No Game No Life
+	- Happy Wheels
+	- TeamLiquid
 
-*note once again this list is incomplete, and this is *
+*note once again this list is incomplete, and this is not a list of servers supporting this message*
+
+### The Moderation Issues
+
+Discord, you seem to have forgotten what your platform was built on. Hard working, volunteer moderators. Despite the memes, many mods work for you because they care about something, be that video games, knitting, or soccer. Huge problems have been ignored, and it seems like you do nothing but victim shame. You have not provided mods with the tools they need to keep their communities safe, and therefor they must make 
