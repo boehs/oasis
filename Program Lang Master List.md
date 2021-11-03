@@ -50,9 +50,7 @@ Enjoy!
 	- Clojure
 	- [Racket](https://en.wikipedia.org/wiki/Racket_(programming_language))
 	- Carp
-- Fennel
-- Red
-- Porth
+	- Fennel
 
 ## Removing the nonos
 
