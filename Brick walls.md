@@ -13,5 +13,6 @@ While, as of course price was a factor, her sentiment was obvious and rubbed off
 When I returned to buy what I had rented, the shop boy was perplexed. He reminded me that [[Bono]] was better than [[Samrin]], but I relented and am still happy with what I bought.
 
 [[friends]]:
-	- 
-
+	- https://danluu.com/look-stupid/
+	
+Here is where I bring it around and explain how it applies to you, but today will ask you. What are your brick walls? What are the tools you would love to wield?
