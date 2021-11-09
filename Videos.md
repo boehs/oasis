@@ -4,7 +4,7 @@ Short answer:**__ No!__**
 Long answer: almost never, it depends, as always. 
 
 **But why?** 
-If you are receiving this tag it's probably because you are currently learning a programming language, without any prior computer science knowledge, and you are attempting to learn by yourself through YouTube videos. 
+If you are receiving this tag it's probably because you are currently learning a programming language, without any prior computer science knowledge, and you are attempting to learn by you()rself through YouTube videos. 
 
 While video tutorials have their place they are generally not suited to teach a language from scratch. **Especially the multi-hour long ones**. The rest of this tag will primarily target these in particular but it applies to most videos about learning from scratch. 
 
