@@ -1,0 +1,124 @@
+{
+  "main": {
+    "id": "c0259719481a5812",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e3848bb64e34d2a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Brick walls.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "97f3d4b76b1386fe",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f19d5d94e5431ad5",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "b0d0eb2fea29b7c6",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "b7c25e0c4daac1e5",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "4f7edfe65e4abfdb",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "fafd2739d63fb620",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b04059271ab75e54",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "a6292cd84a67e201",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Brick walls.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "1cb7e25893a47578",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Brick walls.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "5e3848bb64e34d2a",
+  "lastOpenFiles": [
+    "Untitled 1.md",
+    "Wikilinks Everywhere.md",
+    "Regex Magic.md",
+    "Untitled.md",
+    "We all are lazy.md",
+    "Lemmy what I want 1.md",
+    "flancia chats.md",
+    "As Fast As Possible.md",
+    "anagora coop.md",
+    "anagora.md"
+  ]
+}

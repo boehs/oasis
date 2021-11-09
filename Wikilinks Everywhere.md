@@ -66,6 +66,28 @@ Iterates through all the listed urls in your order until one does not error, or 
 
 What does it say on the tin?
 
+# Concerns
+
+## Bandwidth
+
+We use an extraordinarily large amount of bandwidth, and there is not much that we can do. That being said, the whole web is obese so I highly doubt we end up using more than 0.2 of the bandwidth of a standard blog (~1Kb a page so ~15kb a wikilink so ~150kb a page). Below is what we tried
+
+### ✔️ Request methods
+
+There is no `STATUS` request so we had to make due with `HEAD`. This will only fetch the part of the website that has the page name and useful information. It does not get the page contents, saving bucket loads of bandwidth.
+
+### 👷‍♀️ Local catch
+
+Once implemented we will store the last 1000 pages we checked, so if a wikilink is frequencintly used it will only be loaded once
+
+### ❌ Catch server
+
+This means storing the status code of every website we checked. I don't really like the idea of storing personal information like that.
+
+## Ratelimits
+
+By
+
 # Browsers
 
 - Powercord 🔌 (Discord) Plugin
