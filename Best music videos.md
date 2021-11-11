@@ -12,6 +12,11 @@
 ## Hozier
 
 The [[irony]]. [[gay]]
+
+It's not a positive light for the christian church that's for sure, the song addresses the persecutory nature that's present in a lot of churches. Rest in peace for people died because race, sexuality, religion, origin, or any diabolical anti-human regime.
+
+> Only then I am human, only then I am clean
+
 - https://www.youtube.com/watch?v=PVjiKRfKpPI
 
 # Humanity
