@@ -23,3 +23,4 @@ Gardens in the sense of a raw collection of idea's are not really viewable, beyo
 **The graph**: a 2d view of ideas linked together by common metdata, commonly tags or backlinks
 
 **The garden**: 2 things with the same name! this is a focus on a single node, with a easy way to reach others, normally [[wikilinks]]
+
