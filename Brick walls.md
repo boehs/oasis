@@ -14,5 +14,6 @@ When I returned to buy what I had rented, the shop boy was perplexed. He reminde
 
 [[friends]]:
 	- https://danluu.com/look-stupid/
+		- specifically his comment on boxes. I don't know what he was getting at there but yes
 	
 Here is where I bring it around and explain how it applies to you, but today will ask you. What are your brick walls? What are the tools you would love to wield?
