@@ -47,12 +47,40 @@ This is a rundown of my pricing, details below.
 		- 9.95$ a month
 		- Totally reasonable
 
-## Cloudflare
+## [[Bitwarden]]
+
+Bitwarden is ok, the UX could use work and so could the extension. Their open source stewardship could use some work. It is dirt fucking cheap, open source, and works pretty okish, but great for it's price, improvements are:
+
+### Extension
+
+- Prompt to login on potential autofill, currently it just does not.
+- Actually show autofill options when clicking on a login field
+
+### UX
+
+- When I search something and click the add `new item` the name field should populate with whatever that search was
+
+### Stewardship
+
+- PR's are not really merged, they tell me they are working on this
+
+### But like
+
+IT'S SO GOOD FOR IT'S PRICE, IT'S INDIE, AND IT'S OPEN SOURCEEEE
+
+## [[cloudflare]]
 
 We are off to a bad start, but cloudflare's generosity is astounding. I register my domains through them because only cloudflare offers registration with zero markup.
 
-I am aware of https://gandi.net as an alternative, but they strike me as little improvement, for a steep markup. Of course, price is not a huge factor, but their site tells a different story then their goals. They claim to support net neutrality, but fail to understand what it fully is. They claim to stand up to large monopolies, but they strive to be one, offering a website builder, [[wordpress]] hosting, flash sales, referrals, and a crappy rebrand. They are not [[open source]] as they attempt to mislead. They do try, I suppose, and they live up to their claims to a certain degree with decent support and donations to open projects. Not to say cloudflare is better, they
-## Miniflux
+I am aware of https://gandi.net as an alternative, but they strike me as little improvement, for a steep markup. Of course, price is not a huge factor, but their site tells a different story then their goals. They claim to support net neutrality, but fail to understand what it fully is. They claim to stand up to large monopolies, but they strive to be one, offering a website builder, [[wordpress]] hosting, flash sales, referrals, and a crappy rebrand. They are not [[open source]] as they attempt to mislead. They do try, I suppose, and they live up to their claims to a certain degree with decent support and donations to open projects. Not to say [[cloudflare]] is better, they play the good guys with incredibly generous [[free]] plans. The only reason I pay them money is their [[domain]]s, that are also free in the sense they don't mark them up. The arm they have over our internet is scary though, if they wanted to they could deplatform everyone.
+
+There is no good option here, and there never will be due to [[ICANN]]'s enraging fees.
+
+## Neeva
+
+Subscribing to this was a mistake
+
+
 
 ## 
 
