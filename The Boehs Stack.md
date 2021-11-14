@@ -76,11 +76,17 @@ I am aware of https://gandi.net as an alternative, but they strike me as little 
 
 There is no good option here, and there never will be due to [[ICANN]]'s enraging fees.
 
-## Neeva
+## [[neeva]]
 
-Subscribing to this was a mistake
+Personally neeva was not for me, I was not a big fan of their ui and I prefer the ui of [[duckduckgo]] and serex, but for fans of modern ui I suggest [checking it out](https://neeva.com/p/signup?o=s&c=Fam1BIlxFIXO1x3h-IHMxJJwfb4). I have mixed feelings
 
+I really like what they bring to the table in regards to this idea of unified search. You can intergrate with some gardens, I intergrated with [[Google]], [[Notion]], and [[GitHub]]. There is no API for making new ones, and the intergrations are ok. I don't really know how I feel about how "personal results" and "normal" results are different, I think by default they should be mixed and then you can easily filter between personal stuff
 
+![[Pasted image 20211114180923.png]]
+
+In this screenshot, I searched for S.B 👀. If I searched just for S.B, I would have gotten normal results for ~~them~~, I had to navigate to the personal results (S.T.B) for the emails with ~~them~~, and then there was no normal results. If ~~they~~ were saved as S.B instead of S.T.B then I would actually have no way to get normal results, when I hit enter on an exact match it takes me to the personal results. The query matching was good though
+
+![[Pasted image 20211114181557.png]]
 
 ## 
 
