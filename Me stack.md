@@ -103,7 +103,7 @@ There is no good option here, and there never will be due to [[ICANN]]'s enragin
 
 ### [[migadu]]
 
-This one is uniquet
+This one is unique because
 
 ## And what I ditched
 
