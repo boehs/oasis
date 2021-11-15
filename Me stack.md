@@ -8,6 +8,8 @@ I will run a service like this, someday.
 
 # Web Stack
 
+## Rundown
+
 This is a rundown of my pricing, details below.
 
 - Bitwarden
@@ -17,15 +19,7 @@ This is a rundown of my pricing, details below.
 	- Domain 1: Boehs.org
 		- 10$ a year
 		- 0.8$ a month
-	- Domain 2: Boehs.io
-		- 30$ a month
-		- 2.5$ a month
-	- Total:
-		- 40$ a year
-		- 3.3$ a month
-- Neeva
-	- 60$ a year
-	- 5$ a month
+	- There are other domains but they are not needed for what I am looking for
 - Migadu
 	- 20$ a year
 	- 1.7$ a month
@@ -40,12 +34,38 @@ This is a rundown of my pricing, details below.
 	- 20$ a year
 	- 1.7$ a month
 - **Totals**
-	- 170$ a year
-	- Or 17.45$ a month, but this is not fair
-	- Subtracting the second domain and neeva (questionable anyway)
 		- 80$ a year
-		- 9.95$ a month
-		- Totally reasonable
+		- 6.65$ a month
+
+### Some student deals
+
+- Bitwarden:
+	- None: the 0.8$ a month is a deal
+- Domains:
+	- None that are worth thinking about: [[The .tech trap]]
+		- Ok but
+			- No, Don't
+- Migadu:
+	- Up to 50% Off? -> 0.8$ a month?
+		- Source: https://www.migadu.com/you/#student
+	- Redeem:
+		- Email support
+		- Needs: Student ID
+		- Source: https://www.migadu.com/pricing/#do-you-offer-student-discounts
+- Miniflux:
+	- None
+- Resonate:
+	- 100% off, Don't join the COOP
+	- you can still use it if you like owning music for their pay as you go
+- SourceHut:
+	- 100% off
+	- > SourceHut does not price any users out of the service.
+	- Redeem:
+		- Needs: A kind email to drew
+		- Source: https://man.sr.ht/billing-faq.md#i-dont-think-i-can-pay-for-it
+		- 💗
+
+## What I kept 
 
 ### [[Bitwarden]]
 
@@ -76,6 +96,8 @@ I am aware of https://gandi.net as an alternative, but they strike me as little 
 
 There is no good option here, and there never will be due to [[ICANN]]'s enraging fees.
 
+## And what I ditched
+
 ### [[neeva]]
 
 Personally neeva was not for me, I was not a big fan of their ui and I prefer the ui of [[duckduckgo]] and serex, but for fans of modern ui I suggest [checking it out](https://neeva.com/p/signup?o=s&c=Fam1BIlxFIXO1x3h-IHMxJJwfb4) (This link gives you three months free, it also gives me 1 month free but I won't be using it). I have mixed feelings:
@@ -97,10 +119,8 @@ In this screenshot, I searched for S.B 👀. If I searched just for S.B, I would
 
 ![[Pasted image 20211114181557.png]]
 
-I also was not a fan of the bubble they help you build. You can opt out of seeing news from certain sites, but goodness knows what we need is to escape this bubble, not to let us deliberately blow one/
+I also was not a fan of the bubble they help you build. You can opt out of seeing news from certain sites, but goodness knows what we need is to escape this bubble, not to deliberately blow one.
 
-In the end, for me, this was the right idea in the wrong way, I hope duck or some other party not lead by google executives implements it for themself, it could be quite useful.
-
-## 
+In the end, for me, this was the right idea in the wrong way, I hope duck or some other party not lead by google executives implements personal search for themself, it could be quite useful.
 
 # Local 
