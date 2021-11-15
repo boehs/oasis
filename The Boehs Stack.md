@@ -47,28 +47,28 @@ This is a rundown of my pricing, details below.
 		- 9.95$ a month
 		- Totally reasonable
 
-## [[Bitwarden]]
+### [[Bitwarden]]
 
 Bitwarden is ok, the UX could use work and so could the extension. Their open source stewardship could use some work. It is dirt fucking cheap, open source, and works pretty okish, but great for it's price, improvements are:
 
-### Extension
+#### Extension
 
 - Prompt to login on potential autofill, currently it just does not.
 - Actually show autofill options when clicking on a login field
 
-### UX
+#### UX
 
 - When I search something and click the add `new item` the name field should populate with whatever that search was
 
-### Stewardship
+#### Stewardship
 
 - PR's are not really merged, they tell me they are working on this
 
-### But like
+#### But like
 
 IT'S SO GOOD FOR IT'S PRICE, IT'S INDIE, AND IT'S OPEN SOURCEEEE
 
-## [[cloudflare]]
+### [[cloudflare]]
 
 We are off to a bad start, but cloudflare's generosity is astounding. I register my domains through them because only cloudflare offers registration with zero markup.
 
@@ -76,17 +76,30 @@ I am aware of https://gandi.net as an alternative, but they strike me as little 
 
 There is no good option here, and there never will be due to [[ICANN]]'s enraging fees.
 
-## [[neeva]]
+### [[neeva]]
 
-Personally neeva was not for me, I was not a big fan of their ui and I prefer the ui of [[duckduckgo]] and serex, but for fans of modern ui I suggest [checking it out](https://neeva.com/p/signup?o=s&c=Fam1BIlxFIXO1x3h-IHMxJJwfb4). I have mixed feelings
+Personally neeva was not for me, I was not a big fan of their ui and I prefer the ui of [[duckduckgo]] and serex, but for fans of modern ui I suggest [checking it out](https://neeva.com/p/signup?o=s&c=Fam1BIlxFIXO1x3h-IHMxJJwfb4) (This link gives you three months free, it also gives me 1 month free but I won't be using it). I have mixed feelings:
 
-I really like what they bring to the table in regards to this idea of unified search. You can intergrate with some gardens, I intergrated with [[Google]], [[Notion]], and [[GitHub]]. There is no API for making new ones, and the intergrations are ok. I don't really know how I feel about how "personal results" and "normal" results are different, I think by default they should be mixed and then you can easily filter between personal stuff
+![[Pasted image 20211114183310.png]]
+
+I really like what they bring to the table in regards to this idea of unified search. You can intergrate with some gardens, I intergrated with [[Google]], [[Notion]], and [[GitHub]]. There is no API for making new ones, and it felt like the current ones were dragging me back in the wrong direction. The existing intergrations are ok, and it really seems they know their audience, so kudo's to them on that. Let me list some sites they have to give you an idea
+
+- Box
+- Notion
+- Figma
+- Slack
+
+I don't really know how I feel about how "personal results" and "normal" results are different, I think they should be mixed and then you can easily filter between personal stuff.
 
 ![[Pasted image 20211114180923.png]]
 
 In this screenshot, I searched for S.B 👀. If I searched just for S.B, I would have gotten normal results for ~~them~~, I had to navigate to the personal results (S.T.B) for the emails with ~~them~~, and then there was no normal results. If ~~they~~ were saved as S.B instead of S.T.B then I would actually have no way to get normal results, when I hit enter on an exact match it takes me to the personal results. The query matching was good though
 
 ![[Pasted image 20211114181557.png]]
+
+I also was not a fan of the bubble they help you build. You can opt out of seeing news from certain sites, but goodness knows what we need is to escape this bubble, not to let us deliberately blow one/
+
+In the end, for me, this was the right idea in the wrong way, I hope duck or some other party not lead by google executives implements it for themself, it could be quite useful.
 
 ## 
 
