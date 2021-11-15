@@ -1,5 +1,5 @@
 {
-  "aestheticStyle": "default",
+  "aestheticStyle": "glass",
   "menuCommands": [
     {
       "id": "cmenu-plugin:editor:toggle-bold",

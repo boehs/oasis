@@ -2,7 +2,7 @@ I do thing's different, I pride myself with that. This is my "stack", the servic
 
 There are no flashy UI's, no, these are often two tone. Little money was invested in UX, so expect wierd deep menus and beautiful control. These sites are one person shows, often, so support is handled impressively fast and passionately by Steve, the founder, lead developer, and agent. Steve has no corporate interest, really, all he hopes is to make a few bucks back and keep the service running, and because of that minimalism Steve can afford to ask peanuts, say 3$ a month.
 
-Of course, not all services are this, primarily limited by cost of entry, but they get as close as possible.
+Not all services listed here are this, primarily limited by cost of entry, but they get as close as possible.
 
 I will run a service like this, someday.
 
@@ -63,7 +63,12 @@ This is a rundown of my pricing, details below.
 	- Redeem:
 		- Needs: A kind email to drew
 		- Source: https://man.sr.ht/billing-faq.md#i-dont-think-i-can-pay-for-it
-		- 💗
+	- 💗
+	- Caution:
+		- Must follow up each year
+- **Totals**
+	- 3 fucking dollars and 65 fucking cents
+	- 45$ a year
 
 ## What I kept 
 
@@ -95,6 +100,10 @@ We are off to a bad start, but cloudflare's generosity is astounding. I register
 I am aware of https://gandi.net as an alternative, but they strike me as little improvement, for a steep markup. Of course, price is not a huge factor, but their site tells a different story then their goals. They claim to support net neutrality, but fail to understand what it fully is. They claim to stand up to large monopolies, but they strive to be one, offering a website builder, [[wordpress]] hosting, flash sales, referrals, and a crappy rebrand. They are not [[open source]] as they attempt to mislead. They do try, I suppose, and they live up to their claims to a certain degree with decent support and donations to open projects. Not to say [[cloudflare]] is better, they play the good guys with incredibly generous [[free]] plans. The only reason I pay them money is their [[domain]]s, that are also free in the sense they don't mark them up. The arm they have over our internet is scary though, if they wanted to they could deplatform everyone.
 
 There is no good option here, and there never will be due to [[ICANN]]'s enraging fees.
+
+### [[migadu]]
+
+This one is uniquet
 
 ## And what I ditched
 
