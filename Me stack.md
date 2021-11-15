@@ -107,7 +107,28 @@ This one is unique because, well they say a picture is worth a thousand words.
 
 ![[Pasted image 20211114224043.png]]
 
-It's a nice looking company, pretty pricey but the quality of the service is worth it, plus drew's recommendation.
+It's a nice looking company, pretty pricey but the quality of the service is worth it, plus drew's recommendation. Migadu offers CalDav, CardDav, and way-just-enough email options. You have unlimited aliases, unlimited domains, unlimited mailboxes, and lots of options for aliases
+
+Support was quite good in my experience. Some people shared horror stories with poor communication about issues but those stories were two years ago and I am hoping they improved, I want to keep loving them.
+
+Four cons:
+
+- It seems as if it's not fully open source, I have reached out about this. For a company that touts freedom as their core value (and it's not flaky, it's present in everything they write), it would be sad to see their UI is not free
+- It was hard to find information on DAV integration even though it existed
+- UI is clunky
+- 200 messages a day was fine for me, but a middle ground plan with 15gb and 500 messages would be nice at 50$ a year or so
+
+### [[miniflux]]
+
+I have zero use for RSS now, I just use [[thunderbird]], but for those wanting an RSS reader I highly suggest miniflux, and I keep paying to support the developer.
+
+## Still need to look at!
+
+- https://pinboard.in
+- https://lobste.rs (free)
+- I will likely start paying for the above
+- https://anagora.org/
+- kipos [[👀]]
 
 ## And what I ditched
 
@@ -128,7 +149,7 @@ I don't really know how I feel about how "personal results" and "normal" results
 
 ![[Pasted image 20211114180923.png]]
 
-In this screenshot, I searched for S.B 👀. If I searched just for S.B, I would have gotten normal results for ~~them~~, I had to navigate to the personal results (S.T.B) for the emails with ~~them~~, and then there was no normal results. If ~~they~~ were saved as S.B instead of S.T.B then I would actually have no way to get normal results, when I hit enter on an exact match it takes me to the personal results. The query matching was good though
+In this screenshot, I searched for S.B [[👀]]. If I searched just for S.B, I would have gotten normal results for ~~them~~, I had to navigate to the personal results (S.T.B) for the emails with ~~them~~, and then there was no normal results. If ~~they~~ were saved as S.B instead of S.T.B then I would actually have no way to get normal results, when I hit enter on an exact match it takes me to the personal results. The query matching was good though
 
 ![[Pasted image 20211114181557.png]]
 
