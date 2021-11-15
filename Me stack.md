@@ -103,7 +103,11 @@ There is no good option here, and there never will be due to [[ICANN]]'s enragin
 
 ### [[migadu]]
 
-This one is unique because
+This one is unique because, well they say a picture is worth a thousand words.
+
+![[Pasted image 20211114224043.png]]
+
+It's a nice looking company, pretty pricey but the quality of the service is worth it, plus drew's recommendation.
 
 ## And what I ditched
 
