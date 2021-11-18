@@ -5,7 +5,7 @@ Things like
 1. How can we make the federated Lemmy more seamless? The in message community mentioning syntax, for instance, could use refinement
 2. How can we support different languages better?
 3. Is it possible to avoid the space for radicles that comes with federated platforms while still maintaining the values that a federation stands for?
-4. Working out minor quirks that lower trust, like the 502 page when logging out, randomly *being* logged out until you reload, no css occasionally, and the free .ml domain for the flagship instance
+4. Working out minor quirks that lower trust, like the 502 page when logging out, randomly *being* logged out until you reload, no css occasionally, and the free .ml [[domain]] for the flagship instance
 
 Than, how can we attract users, specifically from different countries?
 
