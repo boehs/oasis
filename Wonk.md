@@ -13,3 +13,26 @@ Despite being a static site generator, if you leave the daemon running then it w
 **Configurable**
 
 Everything should be an option
+
+# Plugins
+
+There are three steps
+
+## seed
+
+Fetch content, make hashmap of metadata. You should export content, but feel no pressure to convert it to HTML. Export what makes sense for the format
+
+- Plaintext
+- Markdown
+- JSON
+- Html
+
+Next
+
+## cvet
+
+Convert exported content based on the template ie `{markdown {post.content}}`
+
+## Resn
+
+Format those exports into [[Garden Representations]]
