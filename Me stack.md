@@ -2,6 +2,8 @@ I do thing's different, I pride myself with that. This is my "stack", the servic
 
 There are no flashy UI's, no, these are often two tone. Little money was invested in UX, so expect wierd deep menus and beautiful control. These sites are one person shows, often, so support is handled impressively fast and passionately by Steve, the founder, lead developer, and agent. Steve has no corporate interest, really, all he hopes is to make a few bucks back and keep the service running, and because of that minimalism Steve can afford to ask peanuts, say 3$ a month.
 
+Of course, this is not indicative of all the services listed here, there are often a few steves, and of course everyone wants to make money, but it sure feels like the people on the other end of the screen *care* about you and their service, it's a great feeling.
+
 Not all services listed here are this, primarily limited by cost of entry, but they get as close as possible.
 
 I will run a service like this, someday.
