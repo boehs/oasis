@@ -63,7 +63,7 @@ This is a rundown of my pricing, details below.
 	- 100% off
 	- > SourceHut does not price any users out of the service.
 	- Redeem:
-		- Needs: A kind email to drew
+		- Needs: A kind email to [[drew]]
 		- Source: https://man.sr.ht/billing-faq.md#i-dont-think-i-can-pay-for-it
 	- 💗
 	- Caution:
@@ -99,9 +99,10 @@ IT'S SO GOOD FOR IT'S PRICE, IT'S INDIE, AND IT'S OPEN SOURCEEEE
 
 We are off to a bad start, but cloudflare's generosity is astounding. I register my domains through them because only cloudflare offers registration with zero markup.
 
-I am aware of https://gandi.net as an alternative, but they strike me as little improvement, for a steep markup. Of course, price is not a huge factor, but their site tells a different story then their goals. They claim to support net neutrality, but fail to understand what it fully is. They claim to stand up to large monopolies, but they strive to be one, offering a website builder, [[wordpress]] hosting, flash sales, referrals, and a crappy rebrand. They are not [[open source]] as they attempt to mislead. They do try, I suppose, and they live up to their claims to a certain degree with decent support and donations to open projects. Not to say [[cloudflare]] is better, they play the good guys with incredibly generous [[free]] plans. The only reason I pay them money is their [[domain]]s, that are also free in the sense they don't mark them up. The arm they have over our internet is scary though, if they wanted to they could deplatform everyone.
+I am aware of https://gandi.net as an alternative, but they strike me as little improvement, for a steep markup. Of course, price is not a huge factor, but their site tells a different story then their goals. They claim to support [[net neutrality][, but fail to understand what it fully is. They claim to stand up to large monopolies, but they strive to be one, offering a website builder, [[wordpress]] hosting, flash sales, referrals, and a crappy rebrand. They are not [[open source]] as they attempt to mislead. They do try, I suppose, and they live up to their claims to a certain degree with decent support and donations to open projects. Not to say [[cloudflare]] is better, they play the good guys with incredibly generous [[free]] plans. The only reason I pay them money is their [[domain]]s, that are also free in the sense they don't mark them up. The arm they have over our internet is scary though, if they wanted to they could deplatform everyone.
 
-There is no good option here, and there never will be due to [[ICANN]]'s enraging fees.
+~~There is no good option here, and there never will be due to [[ICANN]]'s enraging fees.~~
+I am pleased to announce [[drew]]'s names.[[sr.ht]] is in development.
 
 ### [[migadu]]
 
@@ -109,27 +110,43 @@ This one is unique because, well they say a picture is worth a thousand words.
 
 ![[Pasted image 20211114224043.png]]
 
-It's a nice looking company, pretty pricey but the quality of the service is worth it, plus drew's recommendation. Migadu offers CalDav, CardDav, and way-just-enough email options. You have unlimited aliases, unlimited domains, unlimited mailboxes, and lots of options for aliases
+It's a nice looking company, pretty pricey but the quality of the service is worth it, plus drew's recommendation. Migadu offers [[CalDav]], [[CardDav]], and way-just-enough email options. You have unlimited aliases, unlimited domains, unlimited mailboxes, and lots of options for aliases
 
-Support was quite good in my experience. Some people shared horror stories with poor communication about issues but those stories were two years ago and I am hoping they improved, I want to keep loving them.
+Support was quite good in my experience. Some people shared horror stories with poor communication about issues but those stories were two years ago when [[covid]] kicked in and I am hoping they improved, I want to keep loving them.
 
 Four cons:
 
 - It seems as if it's not fully open source, I have reached out about this. For a company that touts freedom as their core value (and it's not flaky, it's present in everything they write), it would be sad to see their UI is not free
 - It was hard to find information on DAV integration even though it existed
-- UI is clunky
-- 200 messages a day was fine for me, but a middle ground plan with 15gb and 500 messages would be nice at 50$ a year or so
+- 200 messages a day was fine for me, but a middle ground plan with 15gb and 500 messages would be nice at 50$ a year or so.
+- There is not really enough options for folderization
 
 ### [[miniflux]]
 
-I have zero use for RSS now, I just use [[thunderbird]], but for those wanting an RSS reader I highly suggest miniflux, and I keep paying to support the developer.
+For those wanting an [[RSS]] reader I highly suggest miniflux. It's a rare app that stays in its lane, doing what it does best, reading and collecting RSS feeds. There is not much more to say here, they strive to be as minimal as possible, I hope that minimalism is shining through in this review.
+
+### [[resonate]]
+
+You can't capture the essence of resonate in a few price bullet points. The idea is paying for music as you listen, more and more each times, until within 9 times you own it. It's an interesting model that is fair for the listener and the artist. The app itself is quite minimal, refreshing after experiencing [[Spotify]]'s mess. The subscription is optional, it's to join the [[coop]] and access the forums. Ideally more artists join in the fun.
+
+### [[Sourcehut]]
+
+What is love? Probably sourcehut. It's an incredibly underated DevOps platform run by [[drew]]. Sourcehut hosts
+
+- [[mailing list]]'s
+- issues (Todo)
+- git
+- hg
+- build systems
+- websites
+
+
 
 ## Still need to look at!
 
 - https://pinboard.in
 - https://lobste.rs (free)
-- I will likely start paying for the above
-- https://anagora.org/
+- https://anagora.org/ (free)
 - kipos [[👀]]
 
 ## And what I ditched
