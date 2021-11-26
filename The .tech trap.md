@@ -3,9 +3,11 @@ aliases:
 - GitHub Edu products are not free
 - Don't take free domains
 - The GitHub Education Pack is a trap
+tags:
+- free
 ---
 
-So, your a student thinking about getting one of those sexy free domains from :
+So, your a student thinking about getting one of those sexy [[free]] [[domain]]s from :
 
 - .tech
 - NameCheap
