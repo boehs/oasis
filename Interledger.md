@@ -99,7 +99,7 @@ But, all hope is not lost. Interledger is open, right? I could set up my own poi
 
 >**[[PenPen]]'s Note:** Evan made a mistake here, it should be coil instead of bob.
 
-It can support many bounces, after all. How hard could it be? Well, turns out that each connector needs one peer. There are three peers in the livenet, [[coil]], [[uphold]], and [[gatehub]] (there might be more, but I don't know of any). As I understand it the model looks like
+It can support many bounces, after all. How hard could it be? Well, turns out that each connector needs one peer. There are three peers in the livenet, [[coil]], [[uphold]], and [[gatehub]] (there might be more, but I don't know of any). As I understand it, in reality, the model looks like
 
 ![[Pasted image 20211127123137.png]]
 
@@ -109,13 +109,58 @@ And no one want's to dedicate the resources to peering with your connector.
 
 ## Why can't an indie connector come?
 
-For the same reason coil, uphold, and gatehub are closed source for profit companies. They are disgusting, making money off of cashing in and out while spewing nonsense about liberation.. Infultrating their fortress with a non profit would be horrible for them. Similarly,
+For the same reason coil, uphold, and gatehub are closed source for profit companies. They are disgusting, making money off of cashing in and out while spewing nonsense about liberation.
+
+Infultrating their fortress with just one connector that was indie would be dentramental to their income. it could open up the entirety of the indieweb taking away a large portion of their stream. They can't have that. 
 
 ### Can we run our own ledger?
 
-I don't think so. I often wondered why coil was closed source, with all the love they were spewing. Now it makes sense, These products are deliberatly closed source & need to be to be sustainable. Who knows how much work it would take to develop an open coil? Then, by opting to use this new open coil clone you are loosing money off of the people who don't care & just use coil (just as you lose money by using librepay).
+I don't think so. Coil is an entry point to the livenet ledger, and is the most complex part that needs to be reimplemented. I often wondered why coil was closed source, with all the love they were spewing. Now it makes sense, These products are deliberatly closed source & need to be to be sustainable. Who knows how much work it would take to develop an open coil? Then, by opting to use this new open coil clone you are loosing money off of the people who don't care & just use coil (just as you lose money by using librepay).
 
-Plus, something I have not reaserched is if these connectors could start stealing money passing through them. Perhaps that's another reason for the closed ecosystem, to prevent fraud. I hope the answer is no, But I am inclined based on what I read to think the answer is yes (The connectors in most ledgers work by wiring XRP crypto). I don't think this will ever change, it's likely by design. The t
+Plus, something I have not reaserched is if these connectors could start stealing money passing through them. Perhaps that's another reason for the closed ecosystem, to prevent fraud. I hope the answer is no, But I am inclined based on what I read to think the answer is yes (The connectors in most ledgers work by wiring XRP crypto). I don't think this will ever change, it's likely by design. The two big kids donating to interledger is coil and ripple (makers of XRP). Changes to the interledger spec to remove that vulnerability would actually hurt the companies behind it.
 
-Crypto is bad
-Interledger could be great (\*but is not and never will be)
+---
+
+## Sources
+
+### Thread
+
+> I am trying to set up web monetization, how do I run an ILP wallet/node/whatever it’s called? I have seen people link to Uphold, but that requires KYC. Are there any other options? It looks like I’d have to run the wallet software on my VPS. (I saw elsewhere that it’d need to be online 24/7)
+
+> Your understanding is basically correct. UpHold is your best bet for ILP mainnet, or you could try reaching out to the folks at Coil too to discuss your use-case (they’re peered with UpHold).
+> You could optionally try to run your own node, but you would need to find and connect to your own peers. In that sense ILP is like networking protocols - you can run your own WiFi at home, but without an Internet service provider or a custom connection to some other network, you’ll just be talking to your own systems.
+> In that sense, Uphold is like an ISP.
+
+> First I want to set up web monetization on my own site and blog (and have it be compatible with Coil) and have the earnings in a wallet with keys I control (Ideally ETH or XMR). Uphold and withdrawing to my own wallet won’t work, I can’t currently comply with the ToS. It would be great if there was some kind of proxy so I could use ex. $eth.ilproxy.example/0x532Fb5D00f40ced99B16d1E295C77Cda2Eb1BB4F and have the money go to my ETH wallet (If needed, it could be wrapped to something like tbtc or wbtc, not sure if there are any xrp wrappers yet tho)
+> I also want to make an alternative web monetization provider. It would be kinda like coil, but without the subscription (you’d fund it whenever you want from your existing crypto). I already wrote the code to send monetization events and such, but I have no idea how to actually send any money on interledger.
+> You said something about peering, interledger is closed by default? I assumed it was open. ![:frowning:](https://emoji.discourse-cdn.com/twitter/frowning.png?v=9 ":frowning:")
+> Is there anything like peeringdb for ILP?
+
+> I’m assuming by this you mean that a Coil subscriber visiting your blog should be able to stream micropayments to your wallet (as opposed to those funds terminating in an Uphold or Gatehub or whatever wallet). Conceptually this should work, but I think there would need to be a payment-path in the Interledger network (that Coil operates on) from Coil to your wallet – and to make that work somewhere in your system you’d need to be running an ILP Connector that is reachable by Coil. At the moment, I suspect this means you’d either need to partner with Coil directly (to peer with them) or partner with a partner of Coil’s (e.g., UpHold).
+> This is an interesting idea, and one that I’ve heard others in the WM community want to see come to fruition (i.e., there should be _many_ WM providers). I would maybe start another thread more targeted at this question so you can get a better idea of what’s involved (the level of effort here is probably higher than you think, e.g., you’re going to need to run ILP infrastructure, which takes time+resources, or use a partner that operates that infrastructure for you).
+
+https://forum.interledger.org/t/how-do-i-run-an-ilp-wallet/
+
+### Others
+
+https://github.com/interledgerjs/moneyd
+
+https://medium.com/interledger-blog/running-your-own-ilp-connector-c296a6dcf39a
+
+## Summary
+
+- Interledger is a spec for transferring money
+	- It is owned by some companies who want to make money
+	- but touted as open
+- One interledger network is popular
+	- It is quite closed off
+		- To make money off inports and exports
+	- Interledger is closed by default
+- It would be hard to make a new one
+	- Most tooling is closed source
+
+Gross.
+
+---
+
+So, [[drew]] was right once again. Interledger will never be great.
