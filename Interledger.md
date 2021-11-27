@@ -50,7 +50,6 @@ It gets worse, in these places you explicitly can't upload (let's not forget the
 - Syria
 - S. Minor Outlying Islands
 - Vanuatu
-
 And *temporarily*
 - American Samoa
 - Bangladesh
@@ -76,9 +75,31 @@ And *temporarily*
 
 > \* both temporarily and under us law!?
 
-So now we have banned half the world from interledger, an open platform, because who cares if you speak latin or not. What about gatehub?
+So now we have banned half the world from interledger, an open platform, because who cares if you speak latin or not. What about gatehub? I will save you the trouble, same deal here. Fine, it's ok, let's cash out of this mess.
 
+![[Pasted image 20211127120130.png]]
 
+What the fuck? It's not worth it for a total of 5$. Funny how a platform that
+
+> puts humanity first.
+
+Locks half of humanity out. How can you possibly
+
+> build fair and equitable pathways to financial access, always working to connect and benefit each and every human, regardless of identity, geography, or income.
+
+When you exclude our friends that don't speak latin?
+
+> **[[PenPen]]'s Note:** Again, Evan confuses interledger and the interledger livenet. interledger has done this sometimes, https://mojaloop.io, but the public face of interledger has clearly not.
+
+---
+
+But, all hope is not lost. Interledger is open, right? I could set up my own pointer on a VPS and coil could stream to that. Easy peasy. The interledger network should work like this:
+
+![[1638027890230.png]]
+
+>**[[PenPen]]'s Note:** Evan made a mistake here, it should be coil instead of bob.
+
+It can support many bounces, after all. How hard could it be? Well, turns out that each connector needs one peer. There are three peers in the livenet. 
 
 Crypto is bad
 Interledger could be great (\*but is not and never will be)
