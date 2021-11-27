@@ -105,6 +105,8 @@ It can support many bounces, after all. How hard could it be? Well, turns out th
 
 And no one want's to dedicate the resources to peering with your connector.
 
+**Not one of these companies will peer with you. You can not run an indie pointer/connector**
+
 ---
 
 ## Why can't an indie connector come?
