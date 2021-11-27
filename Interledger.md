@@ -2,7 +2,7 @@ Interledger is disgusting, for the first time I can recall, save for being sick,
 
 > **[[PenPen]]'s note:** Evan rashly equivalated the *interledger livenet* to interledger. He did this for a noble reason, the livenet *is* often equivilated, but they are not the same. Interledger is a standard, the livenet is the implementation representing the standard. Evan also wanted me to mention that he thinks the standard is awesome! Evan also wanted to mention that he thinks the livenet is the right thing for the wrong reason. More power to the creators using it! 🦸‍♀️
 
-At first, I thought interledger is crypto. It is not, it is a standard (largely powered by crypto) to facilitate transfers of money, agnostic of the currency used by the sender and receiver. I thought this was cool, I added coil to my site when [[imgur]] emerald began using it. I never really thought about it again, until I became involved with the indie web. It started with an email to drew:
+At first, I thought interledger is crypto. It is not, it is a standard (largely powered by crypto (the connectors mostly use XRP on the backend)) to facilitate transfers of money, agnostic of the currency used by the sender and receiver. I thought this was cool, I added coil to my site when [[imgur]] emerald began using it. I never really thought about it again, until I became involved with the indie web. It started with an email to drew:
 
 >> on interledger and web monetization. I agree with your stance on cryptocurrency, generally, but this feels different. I don't really like coil's implementation with a fixed donation amount or the direction they are going that is making it something to be traded, but I like the idea of paying people based on my usage of their product or work (What I can afford). What are your thoughts on this system?
 > There is no place for cryptocurrency in a respectable society.
@@ -99,7 +99,23 @@ But, all hope is not lost. Interledger is open, right? I could set up my own poi
 
 >**[[PenPen]]'s Note:** Evan made a mistake here, it should be coil instead of bob.
 
-It can support many bounces, after all. How hard could it be? Well, turns out that each connector needs one peer. There are three peers in the livenet. 
+It can support many bounces, after all. How hard could it be? Well, turns out that each connector needs one peer. There are three peers in the livenet, [[coil]], [[uphold]], and [[gatehub]] (there might be more, but I don't know of any). As I understand it the model looks like
+
+![[Pasted image 20211127123137.png]]
+
+And no one want's to dedicate the resources to peering with your connector.
+
+---
+
+## Why can't an indie connector come?
+
+For the same reason coil, uphold, and gatehub are closed source for profit companies. They are disgusting, making money off of cashing in and out while spewing nonsense about liberation.. Infultrating their fortress with a non profit would be horrible for them. Similarly,
+
+### Can we run our own ledger?
+
+I don't think so. I often wondered why coil was closed source, with all the love they were spewing. Now it makes sense, These products are deliberatly closed source & need to be to be sustainable. Who knows how much work it would take to develop an open coil? Then, by opting to use this new open coil clone you are loosing money off of the people who don't care & just use coil (just as you lose money by using librepay).
+
+Plus, something I have not reaserched is if these connectors could start stealing money passing through them. Perhaps that's another reason for the closed ecosystem, to prevent fraud. I hope the answer is no, But I am inclined based on what I read to think the answer is yes (The connectors in most ledgers work by wiring XRP crypto). I don't think this will ever change, it's likely by design. The t
 
 Crypto is bad
 Interledger could be great (\*but is not and never will be)
