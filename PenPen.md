@@ -1,0 +1,1 @@
+A fictional character, who is smarter than my dog, [[penny]]
