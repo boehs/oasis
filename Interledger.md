@@ -1,6 +1,6 @@
 Interledger is disgusting, for the first time I can recall, save for being sick, I am on the verge of vomit. One discovery lead to another, and I quickly realized the amount of deception in interledger, and it's meanings for the [[indie web]].
 
-> **[[PenPen]]'s note:** Evan rashly equivalated the *interledger livenet* to interledger. He did this for a noble reason, the livenet *is* often equivilated, but they are not the same. Interledger is a standard, the livenet is the implementation representing the standard. Evan also wanted me to mention that he thinks the standard is awesome! Evan also wanted to mention that he thinks the livenet is the right thing for the wrong reason. More power to the creators using it! 🦸‍♀️
+> **[[PenPen]]'s note:** Evan rashly equivalateed the *interledger livenet* to interledger. He did this for a noble reason, the livenet *is* often equivilated, but they are not the same. Interledger is a standard, the livenet is the implementation representing the standard. Evan also wanted me to mention that he thinks the standard is awesome! Evan also wanted to mention that he thinks the livenet is the right thing for the wrong reason. More power to the creators using it! 🦸‍♀️
 
 At first, I thought interledger is crypto. It is not, it is a standard (largely powered by crypto (the connectors mostly use XRP on the backend)) to facilitate transfers of money, agnostic of the currency used by the sender and receiver. I thought this was cool, I added coil to my site when [[imgur]] emerald began using it. I never really thought about it again, until I became involved with the indie web. It started with an email to drew:
 
@@ -117,9 +117,9 @@ Infultrating their fortress with just one connector that was indie would be dent
 
 ### Can we run our own ledger?
 
-I don't think so. Coil is an entry point to the livenet ledger, and is the most complex part that needs to be reimplemented. I often wondered why coil was closed source, with all the love they were spewing. Now it makes sense, These products are deliberatly closed source & need to be to be sustainable. Who knows how much work it would take to develop an open coil? Then, by opting to use this new open coil clone you are loosing money off of the people who don't care & just use coil (just as you lose money by using librepay).
+I don't think so. Coil is an entry point to the livenet ledger, and is the most complex part that needs to be re-implemented. I often wondered why coil was closed source, with all the love they were spewing. Now it makes sense, These products are deliberatly closed source & need to be to be sustainable. Who knows how much work it would take to develop an open coil? Then, by opting to use this new open coil clone you are loosing money off of the people who don't care & just use coil (just as you lose money by using librepay).
 
-Plus, something I have not reaserched is if these connectors could start stealing money passing through them. Perhaps that's another reason for the closed ecosystem, to prevent fraud. I hope the answer is no, But I am inclined based on what I read to think the answer is yes (The connectors in most ledgers work by wiring XRP crypto). I don't think this will ever change, it's likely by design. The two big kids donating to interledger is coil and ripple (makers of XRP). Changes to the interledger spec to remove that vulnerability would actually hurt the companies behind it.
+Plus, something I have not researched is if these connectors could start stealing money passing through them. Perhaps that's another reason for the closed ecosystem, to prevent fraud. I hope the answer is no, But I am inclined based on what I read to think the answer is yes (The connectors in most ledgers work by wiring XRP crypto). I don't think this will ever change, it's likely by design. The two big kids donating to interledger is coil and ripple (makers of XRP). Changes to the interledger spec to remove that vulnerability would actually hurt the companies behind it.
 
 ---
 
@@ -156,10 +156,12 @@ https://medium.com/interledger-blog/running-your-own-ilp-connector-c296a6dcf39a
 	- but touted as open
 - One interledger network is popular
 	- It is quite closed off
-		- To make money off inports and exports
-	- Interledger is closed by default
-- It would be hard to make a new one
-	- Most tooling is closed source
+		- To make money off imports and exports
+	- Interledger is closed by default, no connectors can be added
+		- This is perhaps needed, as each connector holds money in escrow
+	- It would be hard to make a new ledger
+		- Most tooling is closed source
+			- Like coil, the main way money enters the ecosystem
 
 Gross.
 
