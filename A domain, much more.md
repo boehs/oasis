@@ -16,5 +16,3 @@ Let's imagine this scenario, had you been routing emails through your domains. N
 With a domain, you reclaim your freedom from the oppressors.
 
 This is of course not the only example, just one relevant to lots of us. Whatever you put on your domain, Ultimately, is yours. It is fully on you to do what you want. It's beautiful, to be free, to own, to control.
-
-Cec zee lamdm fdh rha sdg get feeds so xx 23 de ex:

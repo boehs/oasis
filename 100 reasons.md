@@ -62,6 +62,7 @@ Reasons why you should stay alive.
 56. You won't be here to experience the first cat world emperor. 
 57. WHAT ABOUT FOOD?! YOU'LL MISS CHOCOLATE AND ALL THE OTHER NOM THINGS! 
 	1. ~~Starbucks~~. [[Dunkin']]
+	2. Tea / Coffee / Hot Chocolate 
 58. Hugs. 
 59. Stargazing. 
 60. You have a purpose, and it's up to you to find out what it is. 
@@ -83,21 +84,20 @@ Reasons why you should stay alive.
 73. Be yourself, don't take anyone's shit, and never let them take you alive. 
 74. Heroes are ordinary people who make themselves extraordinary. Be your own hero. 
 75. Being happy doesn't mean that everything is perfect. It means that you've decided to look beyond the imperfections. 
-76. One day your smile will be real. 
-77. Having a really hot, relaxing bath after a stressful day. 
-78. Lying on grass and laughing at the clouds. 
-79. Getting completely smashed with your best friends. 
-80. Eating crazy food. 
-81. Staying up all night watching your favourite films with a loved one. 
-82. Sleeping in all day. 
-83. Creating something you're proud of. 
-84. You can look back on yourself 70 years later and being proud you didn't commit 
-85. Being able to meet your Internet friends. 
-86. Tea / Coffee / Hot Chocolate 
-87. The new season of Sherlock
-88. Cuddling under the stars. 
-89. Being stupid in public because you just can. 
-90. If you are reading this then you are alive! Is there any more reason to smile? 
-91. being able to hug that one person you havent seen in years 
-92. People care enough about you and your future to come up with 100 reasons for you not to do this. 
-93. But, the final and most important one is, just, being able to experience life. Because even if your life doesn't seem so great right now, literally anything could happen
+	1. One day your smile will be real. 
+76. Having a really hot, relaxing bath after a stressful day. 
+77. Lying on grass and laughing at the clouds. 
+78. Getting completely smashed with your best friends. 
+79. Eating crazy food. 
+80. Staying up all night watching your favourite films with a loved one. 
+81. Sleeping in all day. 
+82. Creating something you're proud of. 
+83. You can look back on yourself 70 years later and being proud you didn't commit 
+84. Being able to meet your Internet friends. 
+85. The new season of Sherlock
+86. Cuddling under the stars. 
+87. Being stupid in public because you just can. 
+88. If you are reading this then you are alive! Is there any more reason to smile? 
+89. being able to hug that one person you havent seen in years 
+90. People care enough about you and your future to come up with 100 reasons for you not to do this. 
+91. But, the final and most important one is, just, being able to experience life. Because even if your life doesn't seem so great right now, literally anything could happen

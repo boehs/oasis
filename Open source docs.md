@@ -1,0 +1,1 @@
+Have you ever read the knowledge base of a company, and got frustrated after reading a particularly bad article, or one with a minor irk? Perhaps, if you are like me, you felt the urge to fix it, but alas there is no link to a github, no way to fix it, to provide FREE! labor. Why is this ever the case? Why not make your docs public? It perplexes me.

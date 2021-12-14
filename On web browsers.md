@@ -1,0 +1,1 @@
+I have come to the conclusion that web browsers are flawed like many, though to what extent I differ. 
