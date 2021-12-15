@@ -47,6 +47,7 @@ We need to replace \<app> and \<page> with something. October uses id's for this
 
 Now, let's right click the page we are on in the sidebar, copy that id. Replace that with the page. in this case, this was all that was needed for october to figure it out. It's smart! And cool! If you need something more complicated, right click the page, go to advanced, click on protocol script. You can write scripts that run whenever that page get's launched!
 
+On the script topic, if you open the app settings, go to advanced, and click on app script, you can make scripts that run on app launch. A common use case for this is to ensure x app can't be open when y app is open.
 
 ---
 
@@ -56,4 +57,10 @@ Sometimes tabs are relevant, unfortunately. Right click on a page, click on `Ena
 
 # Vision
 
-Eventually, you will cultivate a network of apps. One for word processing, one for news, one for all the git sources, etc. Hopefully, if you are distractable like me, this can help you stay on task. A good october configuration does this.
+Eventually, you will cultivate a network of apps. One for word processing, one for news, one for all the git sources, etc. Hopefully, if you are distractable like me, this can help you stay on task. A good october configuration does this. It enforces self restraint.
+
+# Limitations
+
+- It is a bit like a PWA on steroids
+- Search engines will never be supported. You must navigate to google.com or the likes.
+- It is only effective if it is your only web browser. Uninstall vivaldi, uninstall firefox. Uninstall chrome. Install netscape if you really don't want to commit.
