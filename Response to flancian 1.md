@@ -1,12 +1,12 @@
 Sorry for being so quiet, some stuff has been going on both in "real life" and personal. Personal wise
 
-	- I wanted to go all out [[Linux]], switched from [[manjaro]] to a clean install of [[arch]], messing with [[i3 ]] and [[awesomewm]], trying [[vim]] for the 3rd time this year.
-	- I want to have some centralized config file repository
-		- does it exist?
-			- Edit: Yes it does, no it does not have the features
-				- I opened a issue for this, if someone wants to help me flesh this out I will implement it gladly
-					- https://github.com/twpayne/chezmoi/issues/1747
-		- if it doesn't add that to the backlog (more on that later)
+- I wanted to go all out [[Linux]], switched from [[manjaro]] to a clean install of [[arch]], messing with [[i3 ]] and [[awesomewm]], trying [[vim]] for the 3rd time this year.
+- I want to have some centralized config file repository
+	- does it exist?
+		- Edit: Yes it does, no it does not have the features
+			- I opened a issue for this, if someone wants to help me flesh this out I will implement it gladly
+				- https://github.com/twpayne/chezmoi/issues/1747
+	- if it doesn't add that to the backlog (more on that later)
 - I have been fleshing out my website, I want full control of my online identity [[a domain, much more]]. 
 	- while my own website is not feeling well (see below), I am now rolling my own [[password manager]], [[pastebin]], [[RSS]] reader, and [[webmail]].
 - similarly, I have gone all out in custom email, this has been great! I have many [[sieve]] rules, my favorite being that it sorts mailing lists into their own folders, and also sorts stuff like "reddit.a@boehs.org" into its own folder.

@@ -21,4 +21,39 @@ Now, let's discard the google window. It's ok, it can come back, reopen a new in
 We have three options, saving the session, saving the collection, or minting the collection.
 
 * Saving the session allows us to reopen the window exactly as it was
-* S
+* Saving the collection allows us to open the urls exactly as they are at the given moment, in this case 12 urls all of months
+* Minting the collection saves it as an app, in this case the months app
+
+---
+
+Let's step away from our months app. Magically, a google drive app appears. The google drive app contains google drive, google sheets, google slides, and google docs. Very poggers.
+
+Magically, a window with a link to google docs opens! How cool. Let's click that link..... And, that was underwhelming. October asks you what you want to do with it again! Let's open the settings by pressing `Ctrl+:`, and going to the handlers section. Let's create a basic handler. we have two sections.
+
+```
+For: <>
+Do: <>
+```
+
+by default, urls are opened as `october://go/<url>`, let's override this.
+
+The `for` section is easy, set it to be `docs.google.com/document/*`
+
+The `do` bit is harder. Let's start with `october://app/<app>/<page>`
+
+> A page is an item in a collection.
+
+We need to replace \<app> and \<page> with something. October uses id's for this, handy thing's that look like `ঠ⍉ᯙ♀भᏃ` (no that's not corruption). Let's open the hamburger menu where we found settings, click the id symbol right next to settings, it's kinda hidden! replace \<app> with what was copied to your clipboard.
+
+Now, let's right click the page we are on in the sidebar, copy that id. Replace that with the page. in this case, this was all that was needed for october to figure it out. It's smart! And cool! If you need something more complicated, right click the page, go to advanced, click on protocol script. You can write scripts that run whenever that page get's launched!
+
+
+---
+
+Sometimes tabs are relevant, unfortunately. Right click on a page, click on `Enable tabs`. By default you can do whatever with tabs, but we want it to be more locked down. You can write scripts for this using right click page > advanced > tab script. Use it to restrict what a given page can be used for!
+
+---
+
+# Vision
+
+Eventually, you will cultivate a network of apps. One for word processing, one for news, one for all the git sources, etc. Hopefully, if you are distractable like me, this can help you stay on task. A good october configuration does this.
