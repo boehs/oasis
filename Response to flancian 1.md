@@ -1,6 +1,6 @@
 Sorry for being so quiet, some stuff has been going on both in "real life" and personal. Personal wise
 
-- I wanted to go all out [[Linux]], switched from manjaro to a clean install of arch, messing with [[i3 ]]and [[awesomewm]], trying [[vim]] for the 3rd time this year.
+- I wanted to go all out [[Linux]], switched from [[manjaro]] to a clean install of [[arch]], messing with [[i3 ]] and [[awesomewm]], trying [[vim]] for the 3rd time this year.
 	- I want to have some centralized config file repository
 		- does it exist?
 			- Edit: Yes it does, no it does not have the features
