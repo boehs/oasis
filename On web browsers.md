@@ -1,8 +1,14 @@
+---
+aliases:
+- web browsers
+- web browsers considered harmful
+---
+
 I have come to the conclusion that web browsers are flawed like many, though to what extent I differ. **I believe the issue with [[productivity]] [[online]] is that with literally one button and zero thought you can go in any direction**
 
 # Proposed Solution
 
-> [[PenPen]]'s Note: This is a user story, not a spec
+> [[PenPen]]'s Note: This is a [[user story]], not a spec
 
 > [[PenPen]]'s Note: [[october]] is a working name
 
