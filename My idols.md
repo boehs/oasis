@@ -1,3 +1,0 @@
-Dear X.
-
-People, throughout 
