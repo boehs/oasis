@@ -29,5 +29,7 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "foldHeading": true
+  "foldHeading": true,
+  "legacyEditor": false,
+  "livePreview": true
 }
