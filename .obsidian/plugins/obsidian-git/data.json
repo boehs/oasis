@@ -1,0 +1,14 @@
+{
+  "commitMessage": "auto update of {{numFiles}} files @ {{date}}",
+  "commitDateFormat": "MM/DD/YY HH:mm",
+  "autoSaveInterval": 30,
+  "autoPullInterval": 10,
+  "autoPullOnBoot": true,
+  "disablePush": false,
+  "pullBeforePush": true,
+  "disablePopups": false,
+  "listChangedFilesInMessageBody": true,
+  "showStatusBar": true,
+  "updateSubmodules": false,
+  "gitPath": ""
+}
