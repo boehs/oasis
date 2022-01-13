@@ -97,19 +97,20 @@ Also, some more operations are preformed:
 * This feature is actually not very complex, it adds very little
 * See alternatives!
 # Alternatives
-One might think an alternative is the following:
+### One
+One might think an alternative is to simply  use multiline strings:
 
 ```
 {`<%= var %>`}
 ```
 
-However, attempting to build this site results in `&`
-# Adoption strategy
-
-If we implement this proposal, how will existing Astro developers adopt it? Is
-this a breaking change? Can we write a codemod? Can we provide a runtime adapter library for the original API it replaces? How will this affect other projects in the Astro ecosystem?
-
+However, attempting to build this site results in `&gt;`, this is counterproductive. There is no way that I am aware of to just have the raw `<`
+### Two
+String arguments! Currently the builder uses `&lt;`/`&gt;` if it's not a valid html element or just the element `</div>`, without the lts and gts. It would be better if for a given string you could enable or disable this (Always replace with lt/gt or never replace with lt/gt)
 # Unresolved questions
-
-Optional, but suggested for first drafts. What parts of the design are still
-TBD?
+There are varying questions
+## Is this RFC just to add a separate mode without &gt;s and %lt;s
+### Yes?
+This could work and it would be simple. The con is that template file extension support would be lost
+### No?
+A separate `Astro.raw()` mode could be added to avoid file renaming
