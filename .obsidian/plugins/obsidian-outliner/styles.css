@@ -1,42 +1,44 @@
 /* lists */
-.outliner-plugin-bls .cm-s-obsidian .HyperMD-list-line {
+.outliner-plugin-better-lists .cm-s-obsidian .HyperMD-list-line {
   padding-top: 0.4em;
 }
 
 /* bullets */
-.outliner-plugin-bls .cm-s-obsidian span.cm-formatting-list {
-  letter-spacing: 3px;
-}
-
-.outliner-plugin-bls .cm-s-obsidian span.cm-formatting-list-ul {
-  color: var(--background-primary) !important;
-}
-
-.outliner-plugin-bls .cm-s-obsidian span.cm-formatting-list-ul:before {
+.outliner-plugin-better-bullets
+  .cm-s-obsidian:not(.is-live-preview)
+  .cm-formatting-list-ul:before,
+.outliner-plugin-better-bullets .cm-s-obsidian.is-live-preview .list-bullet:before {
   content: "•";
+  font-size: 150%;
   position: absolute;
+  margin-top: -6px;
   margin-left: -3px;
-  margin-top: -5px;
-  font-size: 24px;
   color: var(--text-muted);
-  visibility: visible !important;
 }
 
 /* lines */
-.outliner-plugin-bls .cm-hmd-list-indent .cm-tab {
-  position: relative;
-}
-
-.outliner-plugin-bls .cm-hmd-list-indent .cm-tab::before {
-  content: "";
-  border-left: 1px solid var(--text-faint);
-  position: absolute;
-  left: 3px;
-  top: -9px;
-  bottom: -9999px;
-}
-
-.outliner-plugin-bls .cm-s-obsidian .CodeMirror-line {
-  position: relative;
+.outliner-plugin-vertical-lines .cm-s-obsidian .HyperMD-list-line {
   overflow: hidden;
+}
+
+.outliner-plugin-vertical-lines .cm-hmd-list-indent {
+  position: relative;
+}
+
+.outliner-plugin-vertical-lines .cm-line .cm-hmd-list-indent::before {
+  content: "";
+  display: block;
+  position: absolute;
+  background-image: linear-gradient(
+    to right,
+    var(--text-faint) 1px,
+    transparent 1px
+  );
+  /* https://developer.mozilla.org/en-US/docs/Web/CSS/length#units */
+  background-size: 1.8ch 1px;
+  background-position-x: 3px;
+  width: 100%;
+  left: 0;
+  top: -1.6em;
+  padding-bottom: 999em;
 }

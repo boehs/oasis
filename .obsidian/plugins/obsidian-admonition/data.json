@@ -12,9 +12,13 @@
   },
   "syntaxHighlight": true,
   "copyButton": false,
-  "version": "6.3.1",
+  "version": "6.9.6",
   "autoCollapse": false,
   "defaultCollapseType": "open",
   "syncLinks": true,
-  "enableMarkdownProcessor": false
+  "enableMarkdownProcessor": false,
+  "injectColor": true,
+  "parseTitles": true,
+  "allowMSSyntax": true,
+  "livePreviewMS": true
 }
