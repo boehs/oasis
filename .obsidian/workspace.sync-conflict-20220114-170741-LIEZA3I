@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "c0259719481a5812",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5beb7f45f783725",
+        "type": "leaf",
+        "dimension": 71.11698612029082,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Rust Rolling Review.md",
+            "mode": "source"
+          }
+        },
+        "group": "b64e7ae42ac38bf4"
+      },
+      {
+        "id": "f54dddb4177f7998",
+        "type": "leaf",
+        "dimension": 28.88301387970919,
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "Rust Rolling Review.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": false,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 0.31346871131452225,
+              "close": false
+            }
+          }
+        },
+        "group": "b64e7ae42ac38bf4"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cd30089c68d34427",
+    "type": "split",
+    "children": [
+      {
+        "id": "00bf0fd00fe483e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "366a418f2b2c0bdf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ba6eb7b8e5e2dfee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Self host",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "56cd6879f8fca0e8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5928cc887940c56b",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd94dd085b1365ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "048446aff87e411c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "574b000d1e4f2751",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Rust Rolling Review.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a39f743b4248c5c5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2c1f47c52d3311e9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Rust Rolling Review.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d5beb7f45f783725",
+  "lastOpenFiles": [
+    "Rust Rolling Review.md",
+    "Rust 🦀.md",
+    "Ki.md",
+    "Interledger.md",
+    "crypto.md",
+    "Things I hate.md",
+    "Untitled 1.md",
+    "Me stack.md",
+    "drew.md",
+    "PenPen.md"
+  ]
+}

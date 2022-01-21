@@ -1,0 +1,1 @@
+Attempts to explain the need for salting passwords to an inexperienced cryptographer have been in my experience, futile. This is especially so when instead of providing a real world example, first an elaborate technical description is said, as is common online. I thought I would change this. This is how I explain salting to coworkers:
