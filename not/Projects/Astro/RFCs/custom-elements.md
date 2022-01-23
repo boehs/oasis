@@ -1,10 +1,9 @@
 - Start Date: (fill me in with today's date, 2022-01-22)
 - Implementation PR: (leave this empty)
-
 # Summary
 This RFC defines a configuration option to make astro viable in applications where custom elements and delimiters are needed.
 
-### Motivation
+# Motivation
 This RFC was driven by the lack of support for EJS style templating. This style of templates uses `<%`, invalid html that astro correctly flags. It would be counterproductive to provide an exception to users of EJS, so I began thinking about how this need *I* have can be applied to needs others have. Through this RFC, users of templating engines *regardless* of what one they use feel first class.
 
 In part two, this is extended to allow users to create embedded components in any renderer, make templating support even better, and introduce new renderers for executing code.
@@ -33,15 +32,33 @@ In an implementation of this design, the config object is extended to introduce 
 
 ```ts
 interface CustomElement {
-	match: [RegExp,RegExp] // opening and closing tag
-	lang: string // programming langudge 
+    /** RegExp for opening tag, closing tag
+     * 
+     * For example, if you want to make `<% hi! %>` valid, you would set match to be `[/<%/,/%>/]`
+     * 
+     * Or, if you wanted to do something more complex, say `<😂 to="the" world>owo</😂>`, you could write a regexp like `[/<😂.*?>/,/<\/😂>/]`
+     */
+	delimiters: [RegExp,RegExp]
+    /**
+     * Syntax Highlighting Language
+     * 
+     * Examples: `typescript`, `ejs`, `handlebars`
+     */
+	language: string
 }
 interface Options {
 	...
-	CustomElements: [CustomElement]
+
+    /**
+     * Define custom delimiters for syntax highlighting and telling the compiler to leave you alone.
+     */
+	CustomElements?: [CustomElement]
 }
 ```
 
+There are actions taken in two places
+#### Compiler
+For delimiters that match, the compiler essentially leaves it be, so the output will be `delimiter+`
 
 ### Drawbacks
 
