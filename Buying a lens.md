@@ -22,8 +22,6 @@ You can't go wrong with 50mm, 35mm for landscape wide angle.
 
 Honestly though, its not about the focal length, it's about how it feels to shoot.
 
-### Ignore $f$stop
-
 ### What mount?
 
 ## Ok so now what

@@ -22,7 +22,7 @@ TD;LR
 
 But, most critisizims of cars still apply. I outline these issues below, but 
 
-- Manufacturing actually produces emissions than normal cars (these are quickly offsetted)
+- Manufacturing actually produces more emissions than normal cars (these are quickly offsetted)
 - A disturbing amount of charging stations are still powered by fossil fuels, it's certainly not zero impact, probably for most 50% of a normal car
 - Huge waste of space, just like cars
 
@@ -55,3 +55,7 @@ Yeah, probably. In urban environments everywhere is reachable by trains often, b
 ## Can I own a car?
 
 Yeah, we acknowledge there are valid reasons to own a car, as long as you wish you don't not need to own a car your welcome here!
+
+## What to do with roads
+
+We think trees are pretty cool.

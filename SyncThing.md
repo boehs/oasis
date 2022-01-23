@@ -10,7 +10,7 @@ Similar to my issues with [[Obsidian Publish]], I was not about to subscribe to 
 
 Setup was difficult (I had to manually enter a 30 or something char long pairing code), and I found the app confusing at first. Some direction would be useful (save for the incomplete docs that I needed to Google for), but used my critical thinking skills and caught on quick. The majority of the systems make sense once you learn them, and there are quite a few goodies I did not feel the need to take advantage of but could see the usecase of (such as ignore lists and send or receive *only*).
 
-Once I had my devices paired, I added my vault folder to SyncThing and checked the device(es) I wanted to sync with. I was relieved to discover I simply needed to consent on the other device and file syncing began perfectly (after the code bit I was scared)
+Once I had my devices paired, I added my vault folder to SyncThing and checked the device(es) I wanted to sync with. I was relieved to discover I simply needed to consent on the other device and file syncing began perfectly.
 
 When I say perfectly I almost mean perfectly (that's a compliment!). I configured SyncThing to "watch" the folder for changes, and it perfectly and instantly picked up on every change and synced it every time. The only annoyance I had was how it handled an error syncing a file. I made a markdown file with a `?` mark in its name, and was informed of a syncing error and directed to the console to "look for clues". To SyncThing's credit, no tracebacks or anything, just a clean log entry informing me windows does not support question marks in file names: but I would have much rathered that information be presented in app
 
