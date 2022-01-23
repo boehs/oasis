@@ -3,6 +3,11 @@
 # Summary
 This RFC defines a configuration option to make astro viable in applications where custom elements and delimiters are needed.
 
+# Definitions
+In `<%= hi %>`,
+* `startDelimiter`: `<%`
+* `value`: `= hi `
+* `endDelimiter`: `%>`
 # Motivation
 This RFC was driven by the lack of support for EJS style templating. This style of templates uses `<%`, invalid html that astro correctly flags. It would be counterproductive to provide an exception to users of EJS, so I began thinking about how this need *I* have can be applied to needs others have. Through this RFC, users of templating engines *regardless* of what one they use feel first class.
 
@@ -28,7 +33,7 @@ This RFC has been split into two levels, however both levels have multiple imple
 
 ### Detailed design
 
-In an implementation of this design, the config object is extended to introduce a new key
+In an implementation of this design, the config object is extended to introduce a new property
 
 ```ts
 interface CustomElement {
@@ -84,7 +89,33 @@ The contents within matched delimiters are syntax highlighted as specified in `l
 
 ### Alternatives
 
-There are no good alternatives 
+There are no good alternatives. Not implementing this makes astro unusable for a group of people.
+
+## Level Two
+### Example
+```html
+running on sh#node --version#sh
+```
+and, `index.astro` with
+```html
+<%= hi %>
+```
+becomes `index.ejs` instead of `index.html`
+### Detailed description
+In an implementation of this design, the `CustomElement` interface is extended to introduce a new property
+
+```ts
+interface CustomElement {
+	...
+    /** Renderer
+     *
+	 * Example `@boehs/astro-render-bash` or `@boehs/astro-render-ejs`
+	 */
+	renderer: string
+}
+```
+
+For delimiter matches with the renderer property, instead of doing nothing, the value is passed to the renderer as if it was it's own component. 
 # Adoption strategy
 
 If we implement this proposal, how will existing Astro developers adopt it? Is
