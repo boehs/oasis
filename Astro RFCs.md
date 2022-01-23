@@ -6,9 +6,7 @@
 		- Escape &lt;html&gt;
 		- Frontend for #todo 
 - Compiler
-	- AllowedCustomElements
-		- Option, takes array
-			- `["<%.*?%>","<5 ?.*?>.*?</5>"]` -> <% hi %> is valid syntax, <5></5> is valid syntax (regex)
+	- AllowedCustomElements [[custom-elements]]
 - API
 	- `Astro.defer(execute: function,point: number = 1)`
 		- Runs after rest of site is built
