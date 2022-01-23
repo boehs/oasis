@@ -33,8 +33,8 @@ In an implementation of this design, the config object is extended to introduce 
 
 ```ts
 interface CustomElement {
-	match: [RegExp,RegExp] // opening and closing tag
-	lang: string // programming langudge 
+	match: RegExp,
+	lang: string
 }
 interface Options {
 	...

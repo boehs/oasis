@@ -1,0 +1,123 @@
+{
+  "main": {
+    "id": "c0259719481a5812",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e3848bb64e34d2a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Astro RFCs.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e7d266e9f9250761",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6ec34c4c42f920a8",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "c7e8cee806365aef",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "32aa5a65d21c863f",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "59b2c58678b293b8",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ]
+  },
+  "right": {
+    "id": "b2bf0e615b796a7e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "adb4857ae7a9baa1",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "0c54c5c9455ccd5f",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Astro RFCs.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "bd3e299ba2ae3c37",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Astro RFCs.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "5e3848bb64e34d2a",
+  "lastOpenFiles": [
+    "Astro RFCs.md",
+    "Brick walls.md",
+    "Salting.md",
+    "Fucking cars FAQ.md",
+    "Fuck cars.md",
+    "RFC Early Feedback First class support for backend frameworks.md",
+    "On Marak.md",
+    "Assets/Pasted image 20210908234903.png",
+    "Javascript.md",
+    "LAST.md"
+  ]
+}
