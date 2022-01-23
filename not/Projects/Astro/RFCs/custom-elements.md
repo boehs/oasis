@@ -44,7 +44,17 @@ interface CustomElement {
      * 
      * Examples: `typescript`, `ejs`, `handlebars`
      */
-	language: string
+	language: string,
+	/**
+	 * Include delimiters in output
+	 * 
+	 * true: `<% Value %>`,
+	 * 
+	 * false: ` Value `
+	 * 
+	 * default: true
+	 */
+	includeDelimiters?: boolean
 }
 interface Options {
 	...
@@ -58,24 +68,23 @@ interface Options {
 
 There are actions taken in two places
 #### Compiler
-For delimiters that match, the compiler essentially leaves it be, so the output will be `delimiter+`
+For delimiters that match, the compiler essentially leaves it be, so the output will be `if (includeDelimiters) startDelimiter + value + if(includeDelimiters) endDelimiter`, it then stops processing and should not do any transformation of matched content.
+
+This is effectively the same as `<Fragment data-astro-raw>startDelimiter value endDelimiter </Fragement>` (Note: `data-astro-raw`  is currently broken, see compiler/#263)
+#### Language Server
+The contents within matched delimiters are syntax highlighted as specified in `language`
+
+---
+
+ Test cases should be added for both compiler and language server to ensure invalid html `<%%>` elements and double braces `{{}}` are still rendered correctly, if in CustomElements.
 
 ### Drawbacks
 
-Why should we *not* do this? Please consider:
-
 - implementation cost, both in term of code size and complexity
-- whether the proposed feature can be implemented in user space
-- the impact on teaching people Astro
-- integration of this feature with other existing and planned features
-- cost of migrating existing Astro applications (is it a breaking change?)
-
-There are tradeoffs to choosing any path. Attempt to identify them here.
 
 ### Alternatives
 
-What other designs have been considered? What is the impact of not doing this?
-
+There are no good alternatives 
 # Adoption strategy
 
 If we implement this proposal, how will existing Astro developers adopt it? Is
