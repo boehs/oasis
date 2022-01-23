@@ -1,10 +1,6 @@
 - Components
-	- `<Raw/>`
-		- Don't worry about malformed html inside the compiler
-		- Frontend for #todo
-	- `<Escape/>`
-		- Escape &lt;html&gt;
-		- Frontend for #todo 
+	- `<Raw/>` [[escaped-and-raw-components]]
+	- `<Escape/>` [[escaped-and-raw-components]]
 - Compiler
 	- AllowedCustomElements [[custom-elements]]
 - API
