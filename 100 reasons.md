@@ -101,3 +101,6 @@ Reasons why you should stay alive.
 89. being able to hug that one person you havent seen in years 
 90. People care enough about you and your future to come up with 100 reasons for you not to do this. 
 91. But, the final and most important one is, just, being able to experience life. Because even if your life doesn't seem so great right now, literally anything could happen
+92. Hugs
+	1. Kisses
+		1. Dog kisses

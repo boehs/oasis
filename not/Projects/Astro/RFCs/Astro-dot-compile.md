@@ -3,13 +3,47 @@
 - Evans insane 3/4
 
 # Summary
-This RFC introduces a new feature of the `Astro` API: `Astro.compile`. It is designed to make 
+This RFC introduces a new feature of the `Astro` API: `Astro.compile`. It is designed to reduce javascript in built sites further by precompiling segments of external javascript, similar to frontmatter.
 # Example
+Evan is adding a really cool text to the bottom of his website. Inside a script tag, he writes
+```js
+let reallycooltext = "evan " + "is " + "really " + "cool!"
+document.getElementById('footer').innerHTML = reallycooltext
+```
+Next, Evan refactors his code to do it the astro way
+```html
+---
+let reallycooltext = "evan " + "is " + "really " + "cool!"
+---
+<script define:vars={{reallycooltext}}>
+document.getElementById('footer').innerHTML = reallycooltext
+</script>
+```
+This reduces his website size by getting rid of extra quotation marks and plus signs. The built HTML here looks like
+```html
+<script define:vars={{reallycooltext}}>
+let reallycooltext="evan is really cool!"
+document.getElementById('footer').innerHTML = reallycooltext
+</script>
+```
+This is good progress, but Evan realizes that including this script tag on *every* page is excessive. He realizes it would be better to make another file, `script.js` and import it from the HTML. That way, the browser can cache it. He moves his code out of the astro component into it's own file.
+```js
+let reallycooltext = "evan " + "is " + "really " + "cool!"
+document.getElementById('footer').innerHTML = reallycooltext
+```
+And imports it from the html. This is great improvement, but he is once again shipping the useless + symbols and " symbols.
 
-If the proposal involves a new or changed API, include a basic code example.
+This is where we are now, ideally Evan could have frontmatter inside his javascript file, but that's impossible. Right now, he could
 
-Omit this section if it's not applicable.
+1. Compile it manually, remove extra quotation marks and plus symbols
+2. Accept the bigger js file size
 
+Now, let's refactor the javascript file with our RFC.
+
+```j
+let reallycooltext = "evan " + "is " + "really " + "cool!"
+document.getElementById('footer').innerHTML = reallycooltext
+```
 # Motivation
 
 In this section, step back and ask yourself: 'why are we doing this?', 'why does it matter?', 'what use cases does it support?', and 'what is the expected outcome?'.
