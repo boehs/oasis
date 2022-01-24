@@ -60,9 +60,8 @@ As we all know, developers like convenience. Sometimes (example A: frameworks), 
 For scripts used on many pages, developers want to make the script an external file to cache data and save space, but by doing so they lose out on the amazing functionality of prexecuting javascript, and end up shipping unnecessary setup code. 
 # Detailed design
 A new function is implemented that takes one parameter: a function.
-
 ```ts
-function compile(func: function) {
+function compile(func: Function) {
 	return func() // return the value func returns
 }
 

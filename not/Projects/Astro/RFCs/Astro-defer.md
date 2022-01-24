@@ -3,7 +3,7 @@
 - Insane 4/4
 
 # Summary
-This RFC introduces a new feature to the `Astro` API: `Astro.defer`. It allows you to execute code *after* your website has been built.
+This RFC introduces a new variable that is checked in each page during build, `defer`
 # Example
 Let's say we have a setup like this
 `layouts/main`
@@ -23,30 +23,20 @@ if (title) Stf.add(title)
 let titles = new Set([])
 export default titles;
 ```
-In this setup, the user wants a page with a list of all the titles on their website. The issue is there is no way to guarantee that `pages/titles` will be built last. Let's introduce `Astro.defer`
+In this setup, the user wants a page with a list of all the titles on their website. The issue is there is no way to guarantee that `pages/titles` will be built last. Let's introduce `defer`
 `pages/titles`
 ```jsx
-{Astro.defer(function(){[...Stf].map((item) => (
-return(<li>{item}</li>)
-))})};
+---
+const defer = 1
+---
 ```
+This page will be built after all the pages in the site are built, because of it's number.
 # Motivation
-
-In this section, step back and ask yourself: 'why are we doing this?', 'why does it matter?', 'what use cases does it support?', and 'what is the expected outcome?'.
-
-Please focus on explaining the motivation so that if this RFC is not accepted,
-the motivation could be used to develop alternative solutions. In other words,
-enumerate the constraints you are trying to solve without coupling them too
-closely to the solution you have in mind.
-
+Some data only becomes available after the site is built, like data in external javascript files and operations that depend on the output of another site. The ability to defer compilation of a file fixes this.
 # Detailed design
+Before the build of each page, frontmatter is checked for a variable with the EXACT signature of `const defer: number` (note: it's important for this to be constant. if it was `let`, the number could change and would require building the entire file to even determine if it should be built later).
 
-This is the bulk of the RFC. Explain the design in enough detail for somebody
-familiar with Astro to understand, and for somebody familiar with the
-implementation to implement. This should get into specifics and corner-cases,
-and include examples of how the feature is used. Any new terminology should be
-defined here.
-
+If `defer` is found AND the `value > 0` (0 is the number of all the pages without defer, most of the site is built at 0), astro does not compile the file yet. Once all normal pages are built, astro builds all the defered pages with `value = 1`. If there are still pages left, it builds all deferred pages with the value of 
 # Drawbacks
 
 Why should we *not* do this? Please consider:
