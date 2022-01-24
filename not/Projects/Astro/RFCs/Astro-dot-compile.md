@@ -3,7 +3,7 @@
 - Evans insane 3/4
 
 # Summary
-This RFC introduces a new feature of the `Astro` API: `Astro.compile`. It is designed to reduce javascript in built sites further by precompiling segments of external javascript, similar to frontmatter.
+This RFC introduces a new feature to the `Astro` API: `Astro.compile`. It is designed to reduce javascript in built sites further by precompiling segments of external javascript, similar to frontmatter.
 # Example
 Evan is adding a really cool text to the bottom of his website. Inside a script tag, he writes
 ```js
@@ -40,49 +40,59 @@ This is where we are now, ideally Evan could have frontmatter inside his javascr
 
 Now, let's refactor the javascript file with our RFC.
 
-```j
-let reallycooltext = "evan " + "is " + "really " + "cool!"
+```js
+let reallycooltext = Astro.compile(function() {return "evan " + "is " + "really " + "cool!"})
 document.getElementById('footer').innerHTML = reallycooltext
 ```
+This gets built into
+```js
+let reallycooltext="evan is really cool!"
+document.getElementById('footer').innerHTML = reallycooltext
+```
+Once again, while still being
+1. Convenient for Evan, no manual conversion!
+2. As small as possible, Convenient for the visitor.
+3. Cached by the browser
+Truly the best of both worlds.
 # Motivation
+As we all know, developers like convenience. Sometimes (example A: frameworks), they add extra overhead for their users so they can experience convenience. For scripts used on one page, Astro provides the best of both worlds, by prexecuting javascript inside of frontmatter.
 
-In this section, step back and ask yourself: 'why are we doing this?', 'why does it matter?', 'what use cases does it support?', and 'what is the expected outcome?'.
-
-Please focus on explaining the motivation so that if this RFC is not accepted,
-the motivation could be used to develop alternative solutions. In other words,
-enumerate the constraints you are trying to solve without coupling them too
-closely to the solution you have in mind.
-
+For scripts used on many pages, developers want to make the script an external file to cache data and save space, but by doing so they lose out on the amazing functionality of prexecuting javascript, and end up shipping unnecessary setup code. 
 # Detailed design
+A new function is implemented that takes one parameter: a function.
 
-This is the bulk of the RFC. Explain the design in enough detail for somebody
-familiar with Astro to understand, and for somebody familiar with the
-implementation to implement. This should get into specifics and corner-cases,
-and include examples of how the feature is used. Any new terminology should be
-defined here.
+```ts
+function compile(func: function) {
+	return func() // return the value func returns
+}
 
+```
+Whatever the inner function (`func`) returns is used to overwrite `Astro.compile(.*?)*`. For instance:
+```js
+let fiveplusfive = Astro.compile(function() {return 5 + 5})
+```
+is
+```js
+let fiveplusfive = 10
+```
+once built.
 # Drawbacks
-
-Why should we *not* do this? Please consider:
-
 - implementation cost, both in term of code size and complexity
-- whether the proposed feature can be implemented in user space
-- the impact on teaching people Astro
-- integration of this feature with other existing and planned features
-- cost of migrating existing Astro applications (is it a breaking change?)
-
-There are tradeoffs to choosing any path. Attempt to identify them here.
-
 # Alternatives
-
-What other designs have been considered? What is the impact of not doing this?
-
+Somehow cramming frontmatter into javascript
 # Adoption strategy
-
-If we implement this proposal, how will existing Astro developers adopt it? Is
-this a breaking change? Can we write a codemod? Can we provide a runtime adapter library for the original API it replaces? How will this affect other projects in the Astro ecosystem?
-
+First, a clear way to even achieve this must be specced out. Then, it can be implemented with little fanfare. 
 # Unresolved questions
+## How to code
+It's actually pretty unclear how "overwriting a function" would even be done. Self modifying code is hard.
+## Inner variables
+Consider the following code:
+```js
+let n = 5
+let result = Astro.compile(function() {return n + 5})
+```
+1. We could intelligently execute only parts of the file by looking at referenced variables inside `Astro.compile` ahead of time
+2. We could execute the whole file
+3. We could require referenced variables from inside `Astro.compile` to be defined inside the function signature (`Astro.compile(function(){return num+5},{num: n})`) to make analysis easier.
 
-Optional, but suggested for first drafts. What parts of the design are still
-TBD?
+I think 1 is the best route, but not positive.

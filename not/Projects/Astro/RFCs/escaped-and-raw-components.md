@@ -1,4 +1,4 @@
-- Start Date: (fill me in with today's date, 2022-01-23)
+- Start Date: 2022-01-23
 - Implementation PR: (leave this empty)
 - Evans sanity spiral 2/4
 

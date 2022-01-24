@@ -1,4 +1,4 @@
-- Start Date: (fill me in with today's date, 2022-01-22)
+- Start Date: 2022-01-22
 - Implementation PR: (leave this empty)
 - Evan's insanity spiral: 1/4
 # Summary
