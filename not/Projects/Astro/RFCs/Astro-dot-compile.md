@@ -21,7 +21,7 @@ document.getElementById('footer').innerHTML = reallycooltext
 ```
 This reduces his website size by getting rid of extra quotation marks and plus signs. The built HTML here looks like
 ```html
-<script define:vars={{reallycooltext}}>
+<script>
 let reallycooltext="evan is really cool!"
 document.getElementById('footer').innerHTML = reallycooltext
 </script>

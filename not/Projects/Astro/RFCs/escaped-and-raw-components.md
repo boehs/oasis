@@ -27,7 +27,7 @@ This makes two astro features more easily accessible.
 - Frontend component for `astro-data-raw`
 - Blocked by compiler/#263
 ## Escaped
-* Frontend component for #???
+* Frontend component for https://github.com/withastro/rfcs/blob/main/active-rfcs/0000-set-html.md
 	* Unimplemented RFC
 * Possibly possible by using some nifty javascript
 # Drawbacks
