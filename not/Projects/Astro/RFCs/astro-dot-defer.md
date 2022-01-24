@@ -3,13 +3,33 @@
 - Insane 4/4
 
 # Summary
-This RFC introduces a new feature to the `Astro` API: `Astro.defer`. t
+This RFC introduces a new feature to the `Astro` API: `Astro.defer`. It allows you to execute code *after* your website has been built.
 # Example
-
-If the proposal involves a new or changed API, include a basic code example.
-
-Omit this section if it's not applicable.
-
+Let's say we have a setup like this
+`layouts/main`
+```js
+import Stf from '$scripts/title'
+const {title} = Astro.props;
+if (title) Stf.add(title)
+```
+`pages/titles`
+```jsx
+    {[...Stf].map((item) => (
+        <li>{item}</li>
+    ))}
+``` 
+`$scripts/title`
+```js
+let titles = new Set([])
+export default titles;
+```
+In this setup, the user wants a page with a list of all the titles on their website. The issue is there is no way to guarantee that `pages/titles` will be built last. Let's introduce `Astro.defer`
+`pages/titles`
+```jsx
+{Astro.defer(function(){[...Stf].map((item) => (
+return(<li>{item}</li>)
+))})};
+```
 # Motivation
 
 In this section, step back and ask yourself: 'why are we doing this?', 'why does it matter?', 'what use cases does it support?', and 'what is the expected outcome?'.
