@@ -36,7 +36,7 @@ Some data only becomes available after the site is built, like data in external 
 # Detailed design
 Before the build of each page, frontmatter is checked for a variable with the EXACT signature of `const defer: number` (note: it's important for this to be constant. if it was `let`, the number could change and would require building the entire file to even determine if it should be built later).
 
-If `defer` is found AND the `value > 0` (0 is the number of all the pages without defer, most of the site is built at 0), astro does not compile the file yet. Once all normal pages are built, astro builds all the defered pages with `value = 1`. If there are still pages left, it builds all deferred pages with the value of 
+First, astro searches each file for `defer`, if it has it, defer is it's value. If not, `defer = 0`. Then, it enters a for loop, building each file with `defer = 0`, than `defer = 1`, etc. Than 
 # Drawbacks
 
 Why should we *not* do this? Please consider:
