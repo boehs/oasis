@@ -1,0 +1,3 @@
+- [[Mac M1]], I never thought I would buy a mac but I did and then installed [[linux]]. Also a ton of stickers!
+- I'm carrying a compass and a [[Garmin]] [[Rino]] 700, I'm very happy with the investment (although I wish there was more competition)
+- I'm carrying
