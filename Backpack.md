@@ -7,17 +7,13 @@
 		- Thermite
 		- Superglue
 	- The med box
-		- Bandages
-		- Gauze
-		- Needle & Thread
-		- Disinfectant
+		- Coleman Family First Aid Kit as base, has changed significantly. As I can remember
+			- + Tweezers, More Gauze, Thread + Needle + ibuprofen
 - Also a headlamp
 - I'm carrying a hammock unironically
 - 100ft of tightly wound rope strong enough to carry me
 - 3x carabiners, nice to have
-- Play
-
-
+- Playing cards
 
 Carrying many things from [https://www.youtube.com/watch?v=PvVg4RYaSuU],
 
@@ -56,4 +52,3 @@ For writing, I have
 - Some [Frixion Pilot] erasable gel pens in a few colors
 - Also [Pentel Twist Erase] 0.7mm mechanical pencils + lead
 - [Rite in the Rain] Hard Cover Notebook
-

@@ -31,5 +31,8 @@
   },
   "foldHeading": true,
   "legacyEditor": false,
-  "livePreview": true
+  "livePreview": true,
+  "spellcheckDictionary": [
+    "frontmatter"
+  ]
 }

@@ -55,9 +55,9 @@ Once again, while still being
 3. Cached by the browser
 Truly the best of both worlds.
 # Motivation
-As we all know, developers like convenience. Sometimes (example A: frameworks), they add extra overhead for their users so they can experience convenience. For scripts used on one page, Astro provides the best of both worlds, by prexecuting javascript inside of frontmatter.
+As we all know, developers like convenience. Sometimes (example A: frameworks), they add extra overhead for their users so they can experience convenience. For scripts used on one page, Astro provides the best of both worlds, by prexecuting JavaScript inside of frontmatter.
 
-For scripts used on many pages, developers want to make the script an external file to cache data and save space, but by doing so they lose out on the amazing functionality of prexecuting javascript, and end up shipping unnecessary setup code. 
+For scripts used on many pages, developers want to make the script an external file to cache data and save space, but by doing so they lose out on the amazing functionality of prexecuting JavaScript, and end up shipping unnecessary setup code. 
 # Detailed design
 A new function is implemented that takes one parameter: a function.
 ```ts
@@ -74,11 +74,11 @@ is
 ```js
 let fiveplusfive = 10
 ```
-once built.
+Once built.
 # Drawbacks
-- implementation cost, both in term of code size and complexity
+- implementation cost, both in terms of code size and complexity
 # Alternatives
-Somehow cramming frontmatter into javascript
+Somehow cramming frontmatter into JavaScript
 # Adoption strategy
 First, a clear way to even achieve this must be specced out. Then, it can be implemented with little fanfare. 
 # Unresolved questions

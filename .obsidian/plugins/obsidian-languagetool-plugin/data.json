@@ -1,0 +1,6 @@
+{
+  "serverUrl": "https://api.languagetool.org",
+  "glassBg": true,
+  "shouldAutoCheck": true,
+  "pickyMode": true
+}

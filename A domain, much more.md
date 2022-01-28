@@ -7,9 +7,9 @@ Most people think they are fine. I beg them to consider the following:
 - Have I actually read the ToS?
 - What if the impossible happened? Will this company, with billions of members, ever look back?
 
-The answer to that question is no. They won't even stop to tell you why they are ripping your life apart, and the destruction? It's not comprehendible. You loose everything, all your accounts, every email you ever wrote, and every [[email]] you will receive. You must race to save what you can from the [[sinking ship]], with each second who knows what you will miss, who knows what you will ever miss. 
+The answer to both those questions is no. They won't even stop to tell you why they are ripping your life apart, and the destruction? It's not comprehendible. You loose everything, all your accounts, every email you ever wrote, and every [[email]] you will receive. You must race to save what you can from the [[sinking ship]], with each second who knows what you will miss, It's impossible to comrehend until it 
 
-It's easy, perhaps because we want convince, to convince ourselves that it could never happen to us, but it does. Google died not care. Two notable examples, terraria's original dev, and a Google employee's husband. Both were unable to reach anyone.
+It's easy, perhaps because we want to convince ourselves that it could never happen to us, but it does. Google died not care. Two notable examples, terraria's original dev, and a Google employee's husband. Both were unable to reach anyone.
 
 Let's imagine this scenario, had you been routing emails through your domains. Now, your domain provider is in control, so is your email provider. If you domain gets taken down, buy it again somewhere else. Old mail is safe, new mail is safe. Mild inconvenience and waste of 10$. If your email account is banned, worst case scenario, you loose all old mail, your new mail is safe, so are your accounts.
 
