@@ -1,3 +1,50 @@
 - [[Mac M1]], I never thought I would buy a mac but I did and then installed [[linux]]. Also a ton of stickers!
 - I'm carrying a compass and a [[Garmin]] [[Rino]] 700, I'm very happy with the investment (although I wish there was more competition)
-- I'm carrying
+- I'm carrying two tin cans of goodies (many other things in these I can't be assed to write down)
+	- The camp box
+		- Flint+Steel
+		- Fishing hook + more thread
+		- Thermite
+		- Superglue
+	- The med box
+		- Bandages
+		- Gauze
+		- Needle & Thread
+		- Disinfectant 
+
+Carrying many things from [https://www.youtube.com/watch?v=PvVg4RYaSuU],
+
+- Originally had some [letherman], switched to the wave plus model after seeing the screwdriver
+- I'm using a [oneplus 5] for my server needs
+- The doomsday drive is a great idea, I made my own from 2tb
+	- ISOs
+		- Linux
+			- Arch
+			- Ubuntu (For when I realize)
+			- GParted
+	- Software I need
+		- VScode
+		- Vim + Spacemacs + Plugins
+		- i3
+		- Libre Office
+		- Strawberry Music
+	- Terminal Apps
+		- Compilers
+			- Python
+			- Node
+			- Deno
+			- Rust
+			- C
+	- My entire music collection
+	- Some photos I like
+- The [Expandable Ethernet Cable] has been shipped!
+- I'm rocking [Sony WH1000XM4]s (used to rock the 2s)
+	- Also the [Sony WF1000XM4]s but I need to order silicon buds
+	- 
+
+For writing, I have
+
+- Some [Frixion Pilot] erasable gel pens in a few colors
+- Also [Pentel Twist Erase] 0.7mm mechanical pencils + lead
+- [Rite in the Rain] Hard Cover Notebook
+
