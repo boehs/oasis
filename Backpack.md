@@ -10,7 +10,14 @@
 		- Bandages
 		- Gauze
 		- Needle & Thread
-		- Disinfectant 
+		- Disinfectant
+- Also a headlamp
+- I'm carrying a hammock unironically
+- 100ft of tightly wound rope strong enough to carry me
+- 3x carabiners, nice to have
+- Play
+
+
 
 Carrying many things from [https://www.youtube.com/watch?v=PvVg4RYaSuU],
 
@@ -20,7 +27,7 @@ Carrying many things from [https://www.youtube.com/watch?v=PvVg4RYaSuU],
 	- ISOs
 		- Linux
 			- Arch
-			- Ubuntu (For when I realize)
+			- Ubuntu (For when I realize during dooms day I don't want to install arch)
 			- GParted
 	- Software I need
 		- VScode
@@ -28,6 +35,7 @@ Carrying many things from [https://www.youtube.com/watch?v=PvVg4RYaSuU],
 		- i3
 		- Libre Office
 		- Strawberry Music
+		- VLC
 	- Terminal Apps
 		- Compilers
 			- Python
@@ -40,7 +48,8 @@ Carrying many things from [https://www.youtube.com/watch?v=PvVg4RYaSuU],
 - The [Expandable Ethernet Cable] has been shipped!
 - I'm rocking [Sony WH1000XM4]s (used to rock the 2s)
 	- Also the [Sony WF1000XM4]s but I need to order silicon buds
-	- 
+- The various bootdrives are smart
+- I'm carrying a 256gb Samsung USB drive, nothing exciting
 
 For writing, I have
 
