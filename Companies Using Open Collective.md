@@ -6,7 +6,9 @@ I wanted to be able to definitively say that open collective is legitimate. Of c
 - https://opencollective.com/chrome
 - https://opencollective.com/google-ospo
 - https://opencollective.com/amp
-
+## Mentions on Google property
+- https://developers.google.com/season-of-docs/docs/org-payments
+- 
 ## Airbnb
 ### Open Collective Links
 - https://opencollective.com/airbnb
