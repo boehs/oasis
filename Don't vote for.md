@@ -1,0 +1,3 @@
+- Richard Blumenthal (sponsored [[EARN IT]])
+  - His friends, coming soonish
+  - One of them, Lindsey Graham
