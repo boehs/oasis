@@ -83,8 +83,16 @@ Let's see how it scores out, bullet points this time because i'm convinced!
 		- https://github.com/alexjv89/markdown-it-obsidian
 - 0.9pt:
 	- Not as I need it really but A for effort
-- 1pt:
-	- 
+- 0.1:
+	- Probably some way to do this but no one has yet
+- 0.45:
+	- Astro ecosystem is stronger but 11ty supports indieweb!!!!!!!!!!!
+
+Total: 3.35
+
+So 11ty is the winner I guess!
+
+### K bye
 
 I still think Astro probably has good usecases and I will continue to develop it, but I'm no longer using it for my site.
 
