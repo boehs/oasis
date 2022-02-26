@@ -14,14 +14,14 @@ let bool = true
 ---
 
 
-{{IF bool}}
+{% raw %}{{IF bool}}{% endraw %}
 
 <div>{bool}</div>
-<div>{{bool}}</div>
+<div>{% raw %}{{bool}}{% endraw %}</div>
 
-{{/IF}}
+{% raw %}{{/IF}}{% endraw %}
 
-{ bool ? <div>{{bool}}</div> : null}
+\{ bool ? <div>{% raw %}{{bool}}{% endraw %}</div> : null\}
 ```
 
 testtwo.astro
@@ -29,7 +29,7 @@ testtwo.astro
 ---
 let bool = true
 ---
-{bool}
+\{bool\}
 ```
 
 gets rendered to
@@ -37,10 +37,10 @@ gets rendered to
 test.ejs
 
 ```ejs
-<%if (bool) { %>
+<%if (bool) \{ %>
 <div>true</div>
 <div><%= bool %></div>
-<% } %>
+<% \} %>
 <div>true</div>
 <div><%= bool %></div>
 
@@ -69,7 +69,7 @@ While upcoming SSR support through rendering with astro is exciting, in certain 
 This RFC adds flexability.
 # Detailed design
 ## Definitions
-* Delimiter: astro currently uses the `{` `}` delimiters for most things. For the context of this RFC delimiter = `{{}}`, 
+* Delimiter: astro currently uses the `\{` `\}` delimiters for most things. For the context of this RFC delimiter = `{% raw %}{{}}{% endraw %}`,
 * Syntax: Please refer to "Unresolved Questions"
 
 ## Design
@@ -78,11 +78,11 @@ When specifying code within the delimiter, the author may reference variables, p
 
 The difference is code within the delimiter is *not* filled at build time. For instance, consider the following astro code
 ```
-{var}
+\{var\}
 ``` 
 vs the new syntax
 ```
-{{var}}
+{% raw %}{{var}}{% endraw %}
 ```
 
 In the first example, during build time var will be replaced with it's value. In the second, it will remain as is (`var`), but with appropriate delimiters for their template language.
@@ -101,7 +101,7 @@ Also, some more operations are preformed:
 One might think an alternative is to simply  use multiline strings:
 
 ```
-{`<%= var %>`}
+\{`<%= var %>`\}
 ```
 
 However, attempting to build this site results in `&gt;`, this is counterproductive. There is no way that I am aware of to just have the raw `<`
