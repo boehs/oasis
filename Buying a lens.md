@@ -2,13 +2,11 @@
 tags:
 - photography
 - draft
-- blog
+in: blog
+title: buying a lens
 ---
 
-```toc
-    style: bullet
-    min_depth: 1
-```
+[[toc]]
 
 So, you want to buy a lens for your camera? So did I, and became overwhelmed by the options. I am a hobbest, and 
 
@@ -18,7 +16,7 @@ So, you want to buy a lens for your camera? So did I, and became overwhelmed by 
 
 ### Deciding a mm range
 
-You can't go wrong with 50mm, 35mm for landscape wide angle.
+I like 16-50
 
 Honestly though, its not about the focal length, it's about how it feels to shoot.
 
@@ -28,9 +26,9 @@ Honestly though, its not about the focal length, it's about how it feels to shoo
 
 ### Find a few lenses
 
-### Read pro reviews.
+### Read pro reviews
 
-#### Non-Red Flags:
+#### Non-Red Flags
 
 ##### Distortion
 

@@ -1,10 +1,6 @@
-	# Domain, Raspberry Pi, 512gb SSD
+ # Domain, Raspberry Pi, 512gb SSD
 
-```toc
-    style: bullet | number (default: bullet)
-    min_depth: number (default: 2)
-    max_depth: number (default: 6)
-```
+[[toc]]
 
 ## For me
 
@@ -28,7 +24,7 @@ Host backends I write independent of my computer, so they are available when eve
 
 ### Photo hosting ([[Lychee]])
 
-My photos are a large part of me, and I would like to have public galleries to share with not only my photography teacher, but anyone I give the link to. 
+My photos are a large part of me, and I would like to have public galleries to share with not only my photography teacher, but anyone I give the link to.
 
 The software I use has password protected galleries support, so I can have fully public ones, and a special gallery for class, for my family, and for me.
 
@@ -40,11 +36,11 @@ I want to host a small file server that allows me to have public, unlisted, and 
 
 ### Website Hosting ([[Why|Digital Garden]])
 
-Serving static website that has my notes ([[Trinket]]).
+Serving static website that has my notes
 
 ## Security
 
-Because I am hosting this shit from my own wifi, security is important. 
+Because I am hosting this shit from my own wifi, security is important.
 
 ### [[CloudFlare]]
 
@@ -52,8 +48,8 @@ Can't get better than this, free and hides my IP from scary DoS and Doxx
 
 ### Some tips
 
-- https://makezine.com/2017/09/07/secure-your-raspberry-pi-against-attackers/ *
-- https://blog.robertelder.org/securing-a-raspberry-pi/
-- https://raspberrytips.com/security-tips-raspberry-pi/
-- https://pimylifeup.com/raspberry-pi-security/
-- https://gist.github.com/boseji/c9e91ff3bd0b3cfb62a5e260fe505374 *
+- <https://makezine.com/2017/09/07/secure-your-raspberry-pi-against-attackers/> *
+- <https://blog.robertelder.org/securing-a-raspberry-pi/>
+- <https://raspberrytips.com/security-tips-raspberry-pi/>
+- <https://pimylifeup.com/raspberry-pi-security/>
+- <https://gist.github.com/boseji/c9e91ff3bd0b3cfb62a5e260fe505374>

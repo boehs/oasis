@@ -17,7 +17,7 @@ And then as my site develops I realize I need more.
 Non of these really work.
 
 - Indieweb is such a vast term, I won't go into specifics
-- For serverless functions/SSR, in astro you just don't. <% breaks the compiler (this is intentional, invalid HTML!), And no matter what editor support would be lackluster because it's just hacks to get it working
+- For serverless functions/SSR, in astro you just don't. `<%` breaks the compiler (this is intentional, invalid HTML!), And no matter what, editor support would be lackluster because it's just hacks to get it working
 - Gemini is possible now, but not really. Essentially I need to hand craft each page separate
 
 On top of that, I'm not a crazy anarchist who combines 15 frameworks together like a madman. That feature has proved useless to me. So my astro honeymoon phase is over, it's not right for me for this usecase.
@@ -43,12 +43,11 @@ As a baseline, astro is `0.5 + 0.9 + 0.25 (hack hack) + 0.2 (soon) + 0.1 (I gues
 
 First hugo, my friends use hugo, my friends like hugo.
 
-I don't. First, go sucks, also javascript sucks but go sucks more. I ignored it with astro but the url is *go*hugo, so I'm reminded each time I use the docs. Also it does not score very well `0.4 + 1 + 0.5 (less hack hack) + 0 + 1 + 0.2 - 0.1 (I hate go fee) = 3.0`. Not enough to warrent a switch
+I don't. First, go sucks, javascript also sucks but go sucks more. I ignored it with astro but the url is *go*hugo, so I'm reminded each time I use the docs. Also it does not score very well `0.4 + 1 + 0.5 (less hack hack) + 0 + 1 + 0.2 - 0.1 (I hate go fee) = 3.0`. Not enough to warrent a switch
 
 Notes:
 
-- https://portable-hugo-links.netlify.app
-
+- <https://portable-hugo-links.netlify.app>
 
 ### Jekyll
 
@@ -62,7 +61,7 @@ No
 
 No
 
-### And finally....
+### And finally
 
 11ty!
 
@@ -71,24 +70,24 @@ It checks all the boxes of things I want to do. Serverless is on the developer's
 Let's see how it scores out, bullet points this time because i'm convinced!
 
 - 0.5:
-	- Templating in 11ty works! It's like astro but for templating languages haha
-- 0.9pt:
-	- PostCSS: https://gist.github.com/liamfiddler/f7d0ef9184770750578260978534e7e2
-	- JS: https://gist.github.com/fourjuaneight/5c0981aa7b97d55fe159db55a822cf07
-	- HTML: https://www.11ty.dev/docs/config/#transforms-example-minify-html-output
-	- Notes: I really like this approach of do whateverism, but it's not fair to those who go out of their way to support postcss (hi astro!)
+  - Templating in 11ty works! It's like astro but for templating languages haha
+- 0.8pt:
+  - PostCSS: <https://gist.github.com/liamfiddler/f7d0ef9184770750578260978534e7e2>
+  - TS: <https://gist.github.com/fourjuaneight/5c0981aa7b97d55fe159db55a822cf07>
+  - HTML: <https://www.11ty.dev/docs/config/#transforms-example-minify-html-output>
+  - Notes: I really like this approach of do whateverism, but it's not fair to those who go out of their way to support postcss (hi astro!) if I give full points for this.
 - 0.5pt:
-	- Same as hugo
-		- https://www.11ty.dev/docs/languages/markdown/#add-your-own-plugins
-		- https://github.com/alexjv89/markdown-it-obsidian
+  - Same as hugo
+    - <https://www.11ty.dev/docs/languages/markdown/#add-your-own-plugins>
+    - <https://github.com/alexjv89/markdown-it-obsidian>
 - 0.9pt:
-	- Not as I need it really but A for effort
-- 0.1:
-	- Probably some way to do this but no one has yet
+  - Not as I need it really but A for effort
+- 1.0:
+  - 11ty has first class support for custom files, but no one has attempted gemini support like go
 - 0.45:
-	- Astro ecosystem is stronger but 11ty supports indieweb!!!!!!!!!!!
+  - Astro ecosystem is stronger but 11ty supports indieweb!!!!!!!!!!!
 
-Total: 3.35
+Total: 4.15
 
 So 11ty is the winner I guess!
 
