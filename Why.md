@@ -1,7 +1,7 @@
 ---
 tags:
 - meta
-- blog
+in: blog
 alias:
 - Digital Garden
 ---
