@@ -167,4 +167,4 @@ Gross.
 
 ---
 
-So, [[drew]] was right once again. Interledger will never be great.
+So, [[Drew DeVault]] was right once again. Interledger will never be great.

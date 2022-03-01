@@ -1,0 +1,8 @@
+- a [[person]]
+- [[open source]] advocate
+	- significant contributions to [[wayland]], for pesents like me maintenance of [[sway]] 
+	- creator of [[Sourcehut]]
+	- creator of [[hare-lang]]
+- famous*ish* in the development community for his hot takes
+- [[metadata]]
+	- [[website]]: https://drewdevault.com

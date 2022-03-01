@@ -1,3 +1,8 @@
+---
+tag:
+- archived
+---
+
 Sorry for being so quiet, some stuff has been going on both in "real life" and personal. Personal wise
 
 - I wanted to go all out [[Linux]], switched from [[manjaro]] to a clean install of [[arch]], messing with [[i3 ]] and [[awesomewm]], trying [[vim]] for the 3rd time this year.

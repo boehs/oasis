@@ -1,3 +1,11 @@
+---
+tags:
+- blog
+- development
+- webdev
+- jamstack
+---
+
 I have a connection with [[Astro]] and will continue to do so. It's close to my heart and I will continue to hack on it.
 
 I will be switching away from Astro for my personal site.
