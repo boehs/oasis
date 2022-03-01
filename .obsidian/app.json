@@ -34,5 +34,8 @@
   "livePreview": true,
   "spellcheckDictionary": [
     "frontmatter"
-  ]
+  ],
+  "tabSize": 2,
+  "showLineNumber": true,
+  "vimMode": true
 }
