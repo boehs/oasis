@@ -6,9 +6,11 @@ tags:
 - development
 ---
 
+[[toc]]
+
 This post has been a long time coming. In 2021, through the pursuit of [[indieweb]] services, I switched to [[Drew DeVault]]'s [[Sourcehut]] platform instead of [[GitHub]]. I opted for a progressive style of migration, meaning new projects will be hosted at sourcehut. Some issues from the switch were evident right away, but many took time. Since my migration, I've endured [[growing pains]] around each corner.
 
-The funny thing is that these problems are not at all related to sourcehut, but rather people's dependence on the service. Experiencing these issues has been (ironically) liberating, as it has made me increasingly more and more aware of the jail the developer community (myself included) has built for themselves. Freeing myself of these restrictions feels natural, just as [[rooting]] an [[android]] phone or migrating to [[linux]] has provided so many with the satisfaction of knowing they have gained some form of digital autonomy.
+The funny thing is that these problems are not at all related to sourcehut, but rather people's dependence on the github service. Experiencing these issues has been (ironically) liberating, as it has made me increasingly more and more aware of the jail the developer community (myself included) has built for themselves. Freeing myself of these restrictions feels natural, just as [[rooting]] an [[android]] phone or migrating to [[linux]] has provided so many with the satisfaction of knowing they have gained some form of digital autonomy.
 
 Detailed here are some such examples of issues I have experienced as a result of github's propitiatory architecture, or integrations people have built using it.
 
@@ -20,7 +22,7 @@ Up until this point, I had been using [[netlify]] to deploy my website. When swi
 
 But *why*? It's standard across all git providers to allow cloning by appending `.git` to a repository. Even for private repositories, giving netlify a [[SSH]] key should be more than enough? What is there to lose by allowing arbitrary URI's?
 
-Well, I suppose there is the touchy issue of automatic deployments. Presumably netlify sets up a webhook with github, gitlab, and bitbucket. These webhooks work because netlify developers have hand coded superpowers. Presumably these superpowers are not hard coded, that would be silly when you offer integrations for three services. [Sourcehut offers webhooks too](https://man.sr.ht/graphql.md#webhooks), I don't expect special handling for my niche service, but I would be down to hand code that handling for automatic deployments, provided 
+Well, I suppose there is the touchy issue of automatic deployments. Presumably netlify sets up a webhook with github, gitlab, and bitbucket. These webhooks work because netlify developers have hand coded superpowers. Presumably these superpowers are not hard coded, that would be silly when you offer integrations for three services. [Sourcehut offers webhooks too](https://man.sr.ht/graphql.md#webhooks), I don't expect special handling for my niche service, but I would be down to hand code that handling for automatic deployments, provided netlify gave me the option
 
 Even if there was no webhooks, that's a pretty self imposed bottleneck, I see no reason that *manual* deployments would not work with this `.git` fallback approach.
 
@@ -40,7 +42,7 @@ Wait...
 
 Huhhhhh?
 
-### Cloudflare
+### [[Cloudflare]]
 
 Same story as netlify, but only github and gitlab
 
@@ -51,4 +53,7 @@ Same story as netlify, but only github and gitlab
 
 ### Conclusion
 
-There is nothing difficult to providing platform emancipation due to git fundamentals and the prevalence of webhooks in modern hosts, but for some reason every major service opposes it. Why?
+There is nothing difficult to providing platform emancipation due to git fundamentals and the prevalence of webhooks in modern git hosts, but for some reason every major service opposes it. Why?
+
+## Patches? Mailing Lists?
+

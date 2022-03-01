@@ -1,0 +1,148 @@
+{
+  "main": {
+    "id": "c0259719481a5812",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e3848bb64e34d2a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "GitHub considered harmful.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "20958ab5c8716058",
+    "type": "split",
+    "children": [
+      {
+        "id": "5cbf56871f8e8664",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce510a1f0d0efc29",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5582877a24e33a63",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a1c56f2cba5a11fb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a90051300e0e9195",
+    "type": "split",
+    "children": [
+      {
+        "id": "74b0c8308aa0f22f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bcccda49a6eba334",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "128b47660cc543ed",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "GitHub considered harmful.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a103a21943820142",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "231deb04379f1c46",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "GitHub considered harmful.md"
+              }
+            }
+          },
+          {
+            "id": "4760303d051c576b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "5e3848bb64e34d2a",
+  "lastOpenFiles": [
+    "GitHub considered harmful.md",
+    "Interesting websites.md",
+    "Missing free space in windows partion manager?.md",
+    "Arch.md",
+    "100 reasons.md",
+    "Backpack.md",
+    "blank paper syndrom.md",
+    "boehs.md",
+    "Astro's honeymoon phase.md",
+    "Community Values.md"
+  ]
+}
