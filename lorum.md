@@ -3,6 +3,7 @@ tags:
 - lorum
 - dolor
 date: 2019-12-23
+is: indu lorum infernum
 ---
 
 # Lorem ipsum dolor sit amet

@@ -1,3 +1,8 @@
+---
+tags: archived
+title: What I want to see in Lemmy (1)
+---
+
 I agree, but at the same time there are other bigger problems to address before, at least in my book.
 
 Things like
@@ -23,7 +28,7 @@ In line with 3, I think at some point some branding consideration is needed, ie
 
 *With an illustration of stuff being shipped between different planets, one covered in flowers, another in factories and tech, and one more with ???*
 
-As an idea. 
+As an idea.
 
 I am interested in your strategy ideas for growth. While I am rambling, worth noting that a democracy system is my long term dream, although far off in the pipeline
 
