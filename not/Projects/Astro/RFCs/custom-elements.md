@@ -27,7 +27,7 @@ This RFC has been split into two levels, however both levels have multiple imple
 ```
 
 ```html
-{{This is it's own thing, not javascript}}
+{%raw%}{{This is its own thing, not javascript}}{%endraw%}
 ```
 ### Detailed design
 In an implementation of this design, the config object is extended to introduce a new property
@@ -76,7 +76,7 @@ This is effectively the same as `<Fragment data-astro-raw>startDelimiter value e
 The contents within matched delimiters are syntax highlighted as specified in `language`
 
 ---
- Test cases should be added for both compiler and language server to ensure invalid html `<%%>` elements and double braces `{{}}` are still rendered correctly, if in CustomElements.
+ Test cases should be added for both compiler and language server to ensure invalid html `<%%>` elements and double braces `{% raw %}{{}}{% endraw %}` are still rendered correctly, if in CustomElements.
 ### Drawbacks
 - implementation cost, both in term of code size and complexity
 ### Alternatives

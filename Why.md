@@ -4,6 +4,7 @@ tags:
 in: blog
 alias:
 - Digital Garden
+title: Why?
 ---
 
 Why what? Why the digital garden in contrast to social media, to to a blog; like the whole world has agreed upon? Or, why write [[Not Included|near everything]] in such a way so that the whole world may view? These two questions are separable, but not separate, so they are answered together in one page.
