@@ -1,3 +1,12 @@
+---
+tags:
+- operating systems
+- windows
+- storage
+- faq
+- stackoverflow
+repost: https://superuser.com/questions/1403035/why-is-the-size-of-available-shrink-space-is-only-13286-mb-on-250-gb-samsung-ssd
+---
 # Question
 
 Help! I have a drive with 100gb free and I can only reduce it by about 10gb in the partion manager!
@@ -6,6 +15,8 @@ Help! I have a drive with 100gb free and I can only reduce it by about 10gb in t
 ![See Here](https://i.stack.imgur.com/tEX4Z.png)
 
 # Answer
+
+> [[PenPen]]'s Note: Evan was initially skeptical that the pagefile could be the cause of this issue, it was only 16 gigabytes on his system - but after disabling it the issue went away.
 
 The main reason for not being able to shrink the disk are that there are unmovable files on the disk at the time of trying to shrink the volume (as your screenshot says).
 

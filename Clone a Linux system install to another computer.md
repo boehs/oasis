@@ -1,3 +1,13 @@
+---
+tags:
+- operating systems
+- linux
+- storage
+- faq
+- repost
+---
+
+## 1
 After searching a bit I could not find a simple and good howto to do that.  
 The following method should work for any Linux distribution (Ubuntu, Debian, Manjaro, Archlinux, Fedora…). Source and target systems must be on the same processor architecture (though transfer from 32bit to 64bit should work).
 
@@ -114,11 +124,11 @@ $ update-grub
 
 That’s it! Your system should be working on the new computer now.  
 
----
+## 2
 
 Use clonezilla
 
----
+## 3
 
 This can be the fastest way to move. As to copy your hard drive partitions as disk images are quite fast. If you don't want to re-install every piece of software. Though creating, resizing and moving the disk images can take quite a long time. I would only recommend this if you are not going to upgrade to a new version of Ubuntu. Make sure you understand disk partitions and grub. Most of what I am doing will use the command line. You need to make sure you understand what a command does before you run it. I am not responsible for data loss as a result of the instructions that follow.
 
@@ -271,7 +281,7 @@ Please read these instructions before beginning. It is no use having all the dat
 [https://help.ubuntu.com/community/Grub2](https://help.ubuntu.com/community/Grub2)  
 [https://help.ubuntu.com/community/RecoveringUbuntuAfterInstallingWindows](https://help.ubuntu.com/community/RecoveringUbuntuAfterInstallingWindows)
 
----
+## 4
 
 Moving a Linux installation from one machine to another is actually relatively easy to do, but there aren’t many articles online that walk through the whole process. Unlike some other operating systems (I’m looking at you Windows) Linux is by default fairly uncoupled from the hardware it is running on. That said, there are still a few gotchas that need to be watched out for, especially when it comes time to configure the bootloader. This post takes you through the whole process and assumes minimal Linux experience: if you’re comfortable with basic shell commands you should be able to follow along.
 
@@ -342,13 +352,13 @@ The `-C` flag tells `tar` to change directories to `/mnt/src`, `-c` tells tar to
 > 
 > This uses a shell pipe to send the output of `tar` into the ssh command, which takes care of setting up an encrypted connection to the other machine, and then runs `tar -C <some-folder-on-the-other-machine> -x` on the other machine, connecting the stdin of `tar` on the remote machine to the stdout of `tar` on the sending machine.
 
-# Step 3: On the dest machine boot from a live-cd
+### Step 3: On the dest machine boot from a live-cd
 
 On the destination machine (the machine we want to clone our system _to_), we need to boot into an operating system that is not running off of the system’s primary hard drive, so that we can write our cloned image into the new drive. I usually just grab the latest Ubuntu live-cd from [Ubuntu’s website](https://ubuntu.com/download/desktop) website and write it to a USB via [Etcher](https://www.balena.io/etcher/) or the `dd` command. Ubuntu provides directions on how to prepare an Ubuntu LiveUSB [here](https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-ubuntu).
 
 If you don’t like Ubuntu any Linux livecd should work fine, just make sure it has a partitioning tool like `gparted` (gui) or `fdisk` (cli).
 
-# Step 4: Partition the drive on the destination machine
+### Step 4: Partition the drive on the destination machine
 
 Here is where things start to get a little tricker. **There are two common ways to boot a Linux system, MBR (an older method) or EFI (a newer method), and each have different partitioning requirements.** If possible you’ll want to use EFI, but if you have an older machine that doesn’t support EFI mode you may need to use MBR. The easiest way to check if a machine supports EFI mode is to boot into the Ubuntu livecd and check if a directory called `/sys/firmware/efi` exists:
 

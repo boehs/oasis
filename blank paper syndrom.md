@@ -1,3 +1,9 @@
+---
+tags:
+- repost
+- development
+---
+
 You have a great project in mind, which looks fantastic, but when you sit down at the desk trying to do something, you suddenly block and are not able to do anything. Then you open up solitaire and make a new record.
 
 You actually need to start doing something related to the project, so that you feel like it's born.

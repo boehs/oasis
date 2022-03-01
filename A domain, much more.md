@@ -1,3 +1,6 @@
+---
+tags: website
+---
 After registering my [[domain]], it became obvious that it was more than a name, it was liberation from oppressive tyranny. Don't get me wrong, I am not a first amendment loving bible smacker, quite the contrary.
 
 I believe it is absolutely within, for instance, [[Google]]'s right to banish users at will from their own, free service, without explanation. That's ok. What's not ok is the utter destruction one of these attacks leaves in it's wake. You become locked out of the internet. It's Google's right to start a disaster, and our obligation to prepare for it.

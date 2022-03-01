@@ -1,3 +1,9 @@
+---
+tags:
+- repost
+---
+> [[PenPen]]'s Note: Like most [[repost]]'s, There is some value added here. Evan modified this list
+
 Reasons why you should stay alive.
 1. We would miss you. 
 2. It's not worth the regret. Either by yourself if you failed or just simply left scars, or the regret everyone else feels by not doing enough to help you. 
