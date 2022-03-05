@@ -13,6 +13,8 @@ module.exports = {
             const currentFileSlug = data.page.filePathStem.replace('/pages/c/', '');
             let backlinks = [];
 
+            data.internal.exists?.add(currentFileSlug.toLowerCase())
+            
             // Search the other notes for backlinks
             for(const otherNote of notes) {
                 const noteContent = otherNote.template.frontMatter.content;
@@ -32,6 +34,10 @@ module.exports = {
                         title: otherNote.data.title,
                     })
                 }
+                
+                outboundLinks.forEach(link => {
+                    if (!data.internal.exists.has(link.toLowerCase())) data.internal.four.add(link)
+                })
             }
             return backlinks;
         }
