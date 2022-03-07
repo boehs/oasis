@@ -1,8 +1,8 @@
 ---
 tags:
 - do-good
-- evergreen
 - blog
+state: evergreen
 ---
 
 There are many methodologies for moderating a community, typically through code of contact or for all intents and purposes - rules.

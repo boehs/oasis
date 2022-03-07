@@ -1,5 +1,5 @@
 ---
-tags: archived
+state: archived
 title: What I want to see in Lemmy (1)
 ---
 

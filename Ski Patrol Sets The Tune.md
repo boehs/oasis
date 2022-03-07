@@ -1,3 +1,9 @@
+---
+date: 2022-12-03
+tags:
+- ski
+---
+
 >[[PenPen]]'s Note: Conflict of interest disclaimer, Evan is employed by a ski mountain
 
 ## Good Vibe
