@@ -63,7 +63,7 @@ This change in pace confused me, it was not what I was accustomed to and I had t
 
 - Users loose out on powers of the git client
 - Users learn and become dependent on objectively wrong ways of doing things
-- Users are subjected to centralization. Using git native approaches I can send my friend a patchset encoded into an audio file and inscribed onto a cassette tape (my perfected method of file transfer). Using the GitHub flow my friend must host their repository on the same instance as mine.
+- Users are subjected to centralization. Using git native approaches I can send my friend a patchset encoded into an audio file and inscribed onto a cassette tape (my preferred method of file transfer). Using the GitHub flow my friend must host their repository on the same instance as mine.
 
 ## And by extension, less contributors
 
