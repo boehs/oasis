@@ -7,6 +7,8 @@ function caselessCompare(a, b) {
 
 module.exports = {
     layout: "post.njk",
+    in: "garden",
+    hasCodeBlock: true,
     eleventyComputed: {
         backlinks: (data) => {
             const notes = data.collections.all;

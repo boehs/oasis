@@ -1,9 +1,9 @@
 ---
 tags:
-- blog
 - development
 - webdev
 - jamstack
+in: blog
 ---
 
 I have a connection with [[Astro]] and will continue to do so. It's close to my heart and I will continue to hack on it.

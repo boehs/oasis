@@ -1,17 +1,17 @@
 ---
 tags:
 - do-good
-- blog
+in: blog
 state: evergreen
 ---
 
 There are many methodologies for moderating a community, typically through code of contact or for all intents and purposes - rules.
 
-My communities don't live by rules. I don't think our government's well intended democracies transition perfectly to online communities, so instead I think about the idea of [[Create the culture you want|Creating the culture you want]]. This document outlines the community *I* want, and the one I help guide "mine" to.
+My communities don't live by rules. I don't think our government's well-intended democracies transition perfectly to online communities, so instead, I think about the idea of [[Create the culture you want|Creating the culture you want]]. This document outlines the community *I* want, and the one I help guide "mine" to.
 
 ## Democratic
 
-It's not a moderators job to decide what is right for the community, rather the community itself. This means discussion and elections before big changes, like the appointment or a new moderator or [[breaking changes]].
+It's not a moderator's job to decide what is right for the community, rather the community itself. This means discussion and elections before big changes, like the appointment or a new moderator or [[breaking changes]].
 
 This extends to the small scale too. If it seems the majority of the people reacting to your behavior don't like it, cut it. Additionally, please bring common sense with you, if *you think* your behavior could be interpreted as negative, it probably is
 
@@ -29,7 +29,7 @@ Finally, we should be [[friendly to all]]. Complementing the idea of inclusivity
 
 # A call to action
 
-These guidelines so to speak are deliberately non-specific. This is partially to prevent [[rule lawyering]], but also to help you make the community what *you* want. Bring changes to the table, and don't be afraid to [[WP:NORULES|break them In a constructive way]]. 
+These guidelines so to speak are deliberately non-specific. This is partially to prevent [[rule lawyering]], but also to help you make the community what *you* want. Bring changes to the table, and don't be afraid to [[WP:NORULES|break them In a constructive way]].
 
 # Punishment
 
@@ -39,14 +39,14 @@ Unless it's clear your faith is bad, we would like to ask to to cool down if nee
 
 1. What went wrong
 2. Then, if we decide something *did* go wrong
-	1. How can it be avoided in the future
-	2. How we can help you
-	3. What should we do if it happens again
+ 1. How can it be avoided in the future
+ 2. How we can help you
+ 3. What should we do if it happens again
 3. Decide with you what should we do now based on:
-	1. What is your chat history? Are you generally constructive?
-	2. What is your punishment history?
-	3. How did this inquiry go?
-	4. How do affected people feel?
+ 1. What is your chat history? Are you generally constructive?
+ 2. What is your punishment history?
+ 3. How did this inquiry go?
+ 4. How do affected people feel?
 
 If it is clear you are too hot for the conversation, we might manually enforce a cool down period of 1-24 hours
 

@@ -1,3 +1,8 @@
+---
+state: evergreen
+is: centering divs
+---
+
 # HTML Notes
 
 [[toc]]
@@ -8,10 +13,9 @@
 
 #### position:
 
-##### 1
 For `z-index` to work additionally the background must have some positioning (usually `position: relative`)
 
-##### (relatively) absolute positioning
+### (relatively) absolute positioning
 
 > [Advanced Positioning Tutorial | HTML & CSS Is Hard (internetingishard.com)](https://www.internetingishard.com/html-and-css/advanced-positioning/)
 

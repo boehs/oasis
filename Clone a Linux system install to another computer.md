@@ -7,6 +7,8 @@ tags:
 - repost
 ---
 
+[[toc]]
+
 ## 1
 After searching a bit I could not find a simple and good howto to do that.  
 The following method should work for any Linux distribution (Ubuntu, Debian, Manjaro, Archlinux, Fedora…). Source and target systems must be on the same processor architecture (though transfer from 32bit to 64bit should work).

@@ -18,7 +18,7 @@ When leaving google.com, a new window is opened. It will ask us to give this col
 
 > [[Sidetrack]]: Keep in mind that the first window is always google, this is the app named october. You could delete the october app, really, it's just a pointer. Replace it with duckduckgo, whatever.
 
-Go back to the google window, this time you are prompted. You can merge it into the window you just opened, or open it in a new window. I think you get the window idea, so let's open it in the window we just opened. The months window is quickly becoming an app! Let's continue adding pages to months, one for each month.
+Go back to the google window, this time you open a new link you are prompted. You can merge it into the window you just opened, or open it in a new window. I think you get the window idea, so let's open it in the window we just opened. The months window is quickly becoming an app! Let's continue adding pages to months, one for each month.
 
 ![[Pasted image 20211215003642.png]]
 
@@ -26,7 +26,7 @@ Now, let's discard the google window. It's ok, it can come back, reopen a new in
 
 We have three options, saving the session, saving the collection, or minting the collection.
 
-* Saving the session allows us to reopen the window exactly as it was
+* Saving the session allows us to reopen all windows exactly as it was
 * Saving the collection allows us to open the urls exactly as they are at the given moment, in this case 12 urls all of months
 * Minting the collection saves it as an app, in this case the months app
 
@@ -49,7 +49,7 @@ The `do` bit is harder. Let's start with `october://app/<app>/<page>`
 
 > A page is an item in a collection.
 
-We need to replace \<app> and \<page> with something. October uses id's for this, handy thing's that look like `ঠ⍉ᯙ♀भᏃ` (no that's not corruption). Let's open the hamburger menu where we found settings, click the id symbol right next to settings, it's kinda hidden! replace \<app> with what was copied to your clipboard.
+We need to replace \<app> and \<page> with something. October uses id's for this, handy things that look like `ঠ⍉ᯙ♀भᏃ` (no that's not corruption). Let's open the hamburger menu where we found settings, click the id symbol right next to settings, it's kinda hidden! replace \<app> with what was copied to your clipboard.
 
 Now, let's right click the page we are on in the sidebar, copy that id. Replace that with the page. in this case, this was all that was needed for october to figure it out. It's smart! And cool! If you need something more complicated, right click the page, go to advanced, click on protocol script. You can write scripts that run whenever that page get's launched!
 
